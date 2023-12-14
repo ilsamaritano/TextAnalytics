@@ -1,0 +1,1363 @@
+traintweets.tsv:472440774785650688	-3.92	Text Desirability Expertise Social_interaction_evaluation Usefulness Feeling Degree Experiencer_obj
+traintweets.tsv:472247134780018688	-1.09	People_by_origin
+traintweets.tsv:472144639232065537	-3.51	
+traintweets.tsv:472456249364467712	0.32	Motion_directional
+traintweets.tsv:472114813670158336	-1.36	Physical_artworks Judgment
+traintweets.tsv:472312347349221376	-3.44	Activity_ongoing Process_continue Being_at_risk Risky_situation Risky_situation Becoming_aware Locating
+traintweets.tsv:472052847715307520	0.26	Optical_image Sensation Choosing Experiencer_focus
+traintweets.tsv:472461287558238208	-2.6	Age People_by_age People
+traintweets.tsv:472103582536593410	-2.44	Calendric_unit Measure_duration Timespan
+traintweets.tsv:474634054802112512	-0.98	Attempt Attempt_means Degree Experiencer_obj
+traintweets.tsv:473205318005297152	2.11	Cause_harm
+traintweets.tsv:472083948751691776	-0.89	Architectural_part
+traintweets.tsv:472270981071781888	-0.77	Required_event Filling Desirability Required_event Ingestion
+traintweets.tsv:472113745582620672	-0.46	Scrutiny Cure Being_in_effect Causation Objective_influence Rite Communication Statement Text_creation Dead_or_alive
+traintweets.tsv:472383962757619714	-3.43	Cause_harm Corporal_punishment Kinship
+traintweets.tsv:472276637418283008	-2.06	Communication Statement Text_creation Desirability Personal_relationship Point_of_dispute Personal_relationship Point_of_dispute
+traintweets.tsv:475684199304011776	-2.15	Observable_body_parts People
+traintweets.tsv:472176121765986304	-0.78	Participation Participation Fining Moving_in_place
+traintweets.tsv:472148581907169281	-2.52	Kinship Apply_heat Experience_bodily_harm Apply_heat
+traintweets.tsv:474584675160047617	-1.14	People
+traintweets.tsv:472204702440910849	-1.5	
+traintweets.tsv:472179787814162432	-2.72	State_of_entity Achieving_first Coming_up_with Destroying
+traintweets.tsv:475341370354176000	-3.51	Representing Personal_relationship
+traintweets.tsv:474403801202323456	-2.05	Calendric_unit Communication Statement Text_creation Kinship Make_possible_to_do Ranked_expectation Desiring Make_possible_to_do Locale_by_event Buildings Expected_location_of_person
+traintweets.tsv:474597542139666432	-1.3	Medical_conditions Ingestion Building_subparts
+traintweets.tsv:472170656121892864	-2.08	Awareness Categorization Opinion Regard People Observable_body_parts
+traintweets.tsv:472377102889914368	-0.22	Giving Earnings_and_losses Ingestion People_by_age
+traintweets.tsv:474184421147672577	-1.06	Awareness Certainty Achieving_first Coming_up_with Event Experience_bodily_harm Event
+traintweets.tsv:472809496474316800	-1.83	Difficulty Becoming_aware Locating Chemical-sense_description Businesses Locale_by_use Becoming_aware Locating Businesses Locale_by_use
+traintweets.tsv:475305953982939136	-3.95	Event Eventive_affecting Existence Kinship Communication Statement Text_creation Kinship Being_awake Perception_active Seeking Observable_body_parts Attaching Building
+traintweets.tsv:472231242079817728	-2.64	Ingestion Food Ingestion Traversing Project Purpose
+traintweets.tsv:474613913644855296	-2.58	Terrorism People_by_origin People_by_vocation People_by_origin Military Terrorism
+traintweets.tsv:475802115248357376	-2.07	Being_located Change_posture Posture Food Ranked_expectation Request Food
+traintweets.tsv:472354942834204672	2.16	
+traintweets.tsv:472252042790977536	-2.67	People Experiencer_focus People_by_vocation Activity_ongoing Hiring
+traintweets.tsv:472049951342469121	-2	People Desiring Desirability Expertise Social_interaction_evaluation Usefulness People Desirability People_by_age Placing Communication Statement Text_creation People
+traintweets.tsv:475348351538323456	-0.98	People Communication Statement Text_creation
+traintweets.tsv:472471515191992320	-2.18	Working_on Halt Have_as_requirement Needing Required_event Working_on
+traintweets.tsv:472914653862174720	-2.88	Ingestion Bringing Carry_goods
+traintweets.tsv:472368636519149568	-3.05	Discussion Position_on_a_scale
+traintweets.tsv:472136638425214977	-3.47	People Communication_noise Make_noise Cause_impact Cause_motion Impact Self_motion Vehicle
+traintweets.tsv:474408008185696256	-2.98	Ranked_expectation Killing Age Kinship People_by_age Part_ordered_segments Text Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:473378650382155777	-2.52	Cause_impact Cause_motion Impact Self_motion Taking_time Temporal_collocation Reading Chatting Perception_active Scrutiny Seeking
+traintweets.tsv:475392086226006017	-2.05	Sounds Weather
+traintweets.tsv:472411846168035328	3.82	Awareness Categorization Opinion Regard Discussion Law Political_locales
+traintweets.tsv:473180569115693056	-0.77	Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change People_by_religion
+traintweets.tsv:474138273820860417	2.69	Bungling Verdict Kinship People_by_age Sleep Desirability Expertise Social_interaction_evaluation Usefulness
+traintweets.tsv:472330211653320705	-2.49	
+traintweets.tsv:472100127231184896	1.54	Sufficiency Attaching Mental_property Ranked_expectation Calendric_unit Measure_duration Taking_time Temporal_collocation
+traintweets.tsv:475003086160031745	-1.98	Ranked_expectation
+traintweets.tsv:472052481225424896	-2.19	Commerce_sell Behind_the_scenes
+traintweets.tsv:474761192557531136	-3.61	Ranked_expectation Avoiding
+traintweets.tsv:472448110573010944	-3.51	Desirability Individual_history Calendric_unit Measure_duration Working_on Existence State_continue Time_vector
+traintweets.tsv:472244251053412352	-2.49	
+traintweets.tsv:472059092568375296	-1.99	Experiencer_focus Being_employed Point_of_dispute
+traintweets.tsv:474758659499913217	-2.49	
+traintweets.tsv:474587951746523136	-3.02	Arriving
+traintweets.tsv:472405949404033024	-3.43	Holding_off_on Waiting
+traintweets.tsv:473612473145110529	-1.66	Personal_relationship Ranked_expectation Being_named Labeling Referring_by_name Simple_naming Questioning Spelling_and_pronouncing
+traintweets.tsv:474744548993036288	-2.72	Judgment Judgment_communication Being_necessary Change_of_quantity_of_possession Losing Mental_property
+traintweets.tsv:472342236655804418	-2.85	Have_associated
+traintweets.tsv:474989465371287553	-2.75	Substance Expensiveness Substance Ingestion Substance Degree
+traintweets.tsv:473966298959855617	-1.5	Event Temporal_collocation Weapon Being_at_risk Calendric_unit Measure_duration Timespan
+traintweets.tsv:472031226186833920	-1.14	Mental_property Cause_to_perceive People Cause_impact Cause_motion Impact Self_motion People
+traintweets.tsv:472348564992307200	-1.16	Experiencer_focus Hunting Relational_natural_features
+traintweets.tsv:472038827771834368	-0.43	Certainty Trust Holding_off_on Waiting Vehicle Hindering Vehicle Means
+traintweets.tsv:472339549193252864	0.22	
+traintweets.tsv:472354118166519808	-1	Calendric_unit Dressing Desiring Becoming_aware Coming_to_believe Perception_active Perception_experience Expensiveness Questioning Expensiveness
+traintweets.tsv:472814643883552768	-1.2	Taking_time Calendric_unit Measure_duration Manipulate_into_doing
+traintweets.tsv:472427971597578241	-3.02	People Wearing Clothing Feeling Perception_active Perception_experience
+traintweets.tsv:474760329013264384	-0.77	Means Participation Cotheme Self_motion Activity_stop Process_stop Resolve_problem
+traintweets.tsv:473508098074615808	-3.04	
+traintweets.tsv:472133688558231552	-2.56	Ingestion Chemical-sense_description Perception_active Perception_experience Containers Measure_volume Animals Food
+traintweets.tsv:474476368843927552	-1.14	Cause_to_perceive Ranked_expectation Wearing Race_descriptor
+traintweets.tsv:472050000055521280	-0.45	Chatting Statement Talking_into Cause_harm Cause_impact
+traintweets.tsv:474290073559904257	-3.04	Type Organization
+traintweets.tsv:472157912467378177	-0.98	Perception_experience Leadership People_by_vocation Bringing Operate_vehicle Departing
+traintweets.tsv:473567831108616193	-0.43	Place_weight_on People
+traintweets.tsv:472156750582661120	-1.3	
+traintweets.tsv:472246719736848384	-2.32	Calendric_unit Holding_off_on Waiting Locale Electricity Ingestion Traversing Food
+traintweets.tsv:472054024620216320	-3.32	Frequency
+traintweets.tsv:473991826269958145	-2.2	People Emotion_active Possibilities Personal_relationship People Emotion_active Possibilities Personal_relationship
+traintweets.tsv:474930873083912194	-2.64	
+traintweets.tsv:472220918333186048	-2.07	Statement Text_creation Text
+traintweets.tsv:474081927280865281	-2.31	Expectation Opinion Identicality Similarity
+traintweets.tsv:465561545720995841	-0.73	
+traintweets.tsv:474313479906926592	-1.41	Calendric_unit Measure_duration Timespan Bringing People_by_origin
+traintweets.tsv:472276572993753089	-2.4	Judgment_direct_address Change_event_time Success_or_failure Successful_action Change_position_on_a_scale Being_in_effect Causation Objective_influence Commerce_pay Correctness
+traintweets.tsv:473376739255537664	-2.08	Attention Reading Mental_property
+traintweets.tsv:475070651649490945	-2.08	Being_awake Perception_active Seeking Chatting Statement Talking_into Education_teaching
+traintweets.tsv:474360916247842816	-2.19	Type Judgment_direct_address Event_instance Location_in_time Timespan
+traintweets.tsv:472470244641239040	1.75	Event_instance Location_in_time Timespan Age State_of_entity
+traintweets.tsv:472138175075590146	-2.31	People Chatting Statement Talking_into Desiring
+traintweets.tsv:472359266108833792	-2.81	State_of_entity Education_teaching Weapon
+traintweets.tsv:472048642250272769	-0.75	
+traintweets.tsv:472257691138531328	-2.22	Vocalizations
+traintweets.tsv:472235737199300608	3.2	Aesthetics Mental_property People
+traintweets.tsv:474745343922302976	-3.77	Assistance
+traintweets.tsv:472764340366749697	-1.4	Body_movement Cause_motion Judgment_direct_address Participation
+traintweets.tsv:475720187115630593	-0.46	Medical_professionals Calendric_unit Connecting_architecture
+traintweets.tsv:474204818920460288	-2.95	Awareness Cogitation
+traintweets.tsv:472191022668079104	-3.99	Perception_active Scrutiny Seeking
+traintweets.tsv:475655780511666177	-2.52	Activity_ongoing Cause_to_continue Filling Clothing People_by_age
+traintweets.tsv:474565682248441856	-2.45	Rite Substance Awareness Categorization Opinion Regard Dressing Commerce_buy
+traintweets.tsv:473163723494789120	-3.41	Clothing Appearance Mental_property Ranked_expectation Likelihood Appearance Sounds
+traintweets.tsv:472313286441336832	-2.19	Judgment_communication First_rank Leadership
+traintweets.tsv:472136606661754880	-2	
+traintweets.tsv:473230630306971652	-3.02	Cause_impact Cause_motion Impact Self_motion
+traintweets.tsv:475135703802601472	-2.33	Communication Statement Text_creation Activity_ongoing Cause_to_continue Desiring
+traintweets.tsv:472075074590097408	-2.19	Chatting Statement Talking_into Kinship
+traintweets.tsv:472848667297456128	-3.95	Frequency Statement Degree
+traintweets.tsv:475670298658738176	-2.06	Observable_body_parts Cause_harm Cutting Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change
+traintweets.tsv:474605161420439552	-1.2	Awareness Certainty Calendric_unit Experiencer_obj Activity_ongoing Cause_to_continue
+traintweets.tsv:472437929764077568	-0.05	Awareness Categorization Opinion Regard Aggregate Organization Correctness
+traintweets.tsv:475390656329052160	-2.49	Awareness Categorization Opinion Regard Timespan Commerce_pay Commerce_scenario
+traintweets.tsv:472453641543352320	-2.57	Coming_to_believe Getting Commerce_buy
+traintweets.tsv:472361960147664896	-2.64	Communication_manner Statement Text_creation Importance People
+traintweets.tsv:472133749019508736	-3.03	
+traintweets.tsv:475392936692436992	-3.95	Likelihood Aggregate Type
+traintweets.tsv:474955755758419972	-2.49	Statement Text_creation Text Catastrophe Dressing Killing
+traintweets.tsv:474759418928955392	-2.87	
+traintweets.tsv:474976784463982592	-0.36	Awareness Certainty Cause_change_of_position_on_a_scale Cause_to_be_included Commutative_process Participation
+traintweets.tsv:475305492798246913	2.3	Sex Awareness Simple_name
+traintweets.tsv:474300987612483585	-3.17	Undergo_change Means
+traintweets.tsv:474601704529604608	-2.64	
+traintweets.tsv:463833782064136192	-1.95	Becoming_aware Locating Correctness Assistance Communication
+traintweets.tsv:472099199467937792	-1.29	People Temporal_collocation
+traintweets.tsv:474420194992209920	-2.6	Attaching Closure Inchoative_attaching Clothing
+traintweets.tsv:474842149066768384	-2.03	Communication Statement Text_creation
+traintweets.tsv:472231434841632768	-2.42	Calendric_unit
+traintweets.tsv:473280413495230464	-2.6	Being_in_effect Causation Objective_influence Causation
+traintweets.tsv:473540858428805120	-2.02	Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:472053492442738688	-2.72	People
+traintweets.tsv:472217789030494210	-1.2	People_by_age Usefulness Attending Judgment Judgment
+traintweets.tsv:472557087747080192	-1.5	Difficulty Perception_experience Appearance Becoming_aware Locating Causation Sending Organization
+traintweets.tsv:472390894595735552	-2.4	Required_event Communication
+traintweets.tsv:472348815115423744	-2.81	Discussion Risky_situation Event Eventive_affecting Experiencer_obj
+traintweets.tsv:472129992982536192	-2.33	Perception_active Ingestion Food
+traintweets.tsv:473627786071269376	-2.05	Text Judgment_direct_address Sign_agreement Text_creation Statement
+traintweets.tsv:472336143934300160	-2.08	Fining Wearing Color
+traintweets.tsv:472334918715187200	-1.14	Age
+traintweets.tsv:474647715063029760	-2.49	Communication Statement Text_creation Complaining Containers
+traintweets.tsv:473332077446696960	-2	Recording
+traintweets.tsv:472576144919646209	-4.04	Being_awake Perception_active Seeking People Intoxicants Body_movement Change_posture Natural_features Observable_body_parts
+traintweets.tsv:472430817986093056	-2.06	Commerce_buy Clothing Desiring Cotheme Self_motion Personal_relationship
+traintweets.tsv:475380952357933056	-2.78	Animals Working_on
+traintweets.tsv:472390883485425664	-2.15	Prevarication Part_orientational
+traintweets.tsv:472136078720528384	-1.51	Communication Statement Text_creation People_by_vocation Perception_body State_of_entity Communication Statement Text_creation
+traintweets.tsv:472400675293634562	-2.78	Perception_experience People Shopping Cause_impact Cause_motion Impact Self_motion Vehicle
+traintweets.tsv:475573396604862464	-2.58	
+traintweets.tsv:474840073956229120	-2.02	Certainty Likelihood Participation Difficulty Contacting Cause_motion Manipulation
+traintweets.tsv:473850634362306560	-2.74	Ranked_expectation Hear Perception_experience
+traintweets.tsv:473304708187455488	-2.63	Degree Required_event Familiarity
+traintweets.tsv:472425518109712384	-3.95	Extreme_value Biological_area Natural_features Part_ordered_segments Text Perception_active Scrutiny Seeking
+traintweets.tsv:473487073840615425	-2.3	Coincidence Observable_body_parts
+traintweets.tsv:472107346970546176	-3.32	Sounds Abounding_with Fullness
+traintweets.tsv:472232996310122496	-1.85	Biological_urge Causation Placing Sleep
+traintweets.tsv:475098729414811648	-2.86	Awareness Categorization Opinion Regard Desirability Awareness Cogitation Discussion
+traintweets.tsv:474535916154150912	-1.36	Gizmo Political_locales Employing Discussion Grant_permission Permitting
+traintweets.tsv:472503799027073026	-3.1	Releasing Removing Desirability Expertise Social_interaction_evaluation Usefulness Statement Accuracy
+traintweets.tsv:472124223641493504	-2.13	
+traintweets.tsv:474681473124270080	-0.25	Perception_active Text Relative_time Temporal_collocation
+traintweets.tsv:474641913807532032	-2.08	Increment Sounds
+traintweets.tsv:473619690959286273	0.32	Desirability Expertise Social_interaction_evaluation Usefulness Locale Departing
+traintweets.tsv:475981405579902976	-2.15	Coincidence Setting_fire Event Calendric_unit Temporal_collocation Awareness Categorization Opinion Regard
+traintweets.tsv:473188949910122496	-2.42	Ranked_expectation Locale Containers Representing Perception_active Scrutiny Seeking Food Observable_body_parts Shaped_part
+traintweets.tsv:472376571282878464	-3.49	Emotion_directed Process_end Locale_by_use Calendric_unit Measure_duration Assessing Working_on Locale_by_use Calendric_unit
+traintweets.tsv:474993563529658368	-2.56	Desiring
+traintweets.tsv:472210386821734400	-2.33	Kinship Simple_name Correctness Sounds
+traintweets.tsv:472216449151688704	-2.05	Food
+traintweets.tsv:472789592882819072	-2.49	Origin People_by_jurisdiction Public_services Ranked_expectation Required_event
+traintweets.tsv:472171045412433920	-2.61	Experiencer_focus Coming_to_believe Resolve_problem
+traintweets.tsv:474937711514894337	-2.3	Halt Mental_property People
+traintweets.tsv:474195664633872384	-1.16	Motion_directional Perception_active Scrutiny Seeking Awareness Sign
+traintweets.tsv:472152461688717313	-2.78	Communication Statement Text_creation Dressing Perception_experience
+traintweets.tsv:474654620569337856	-2	Awareness Cogitation Undergo_change
+traintweets.tsv:473481818675478529	-2	Ingestion Temporal_collocation
+traintweets.tsv:474076588884369408	-1.02	Participation Food
+traintweets.tsv:474131117818122240	-1.98	
+traintweets.tsv:474801794644987904	-3.61	Being_awake Perception_active Seeking Being_awake Perception_active Seeking Perception_experience
+traintweets.tsv:475992523588923392	4.62	Desirability
+traintweets.tsv:474580164048080896	1.38	Accuracy
+traintweets.tsv:472290514189168640	-2.95	People_by_origin Gizmo Supply Money Communication_noise Make_noise
+traintweets.tsv:472053500202205184	-1.25	Medical_professionals Building_subparts
+traintweets.tsv:475423051946143744	-3.49	Cardinal_numbers Attaching Building Aggregate Coming_to_believe
+traintweets.tsv:472178240971218944	-2	Cotheme Self_motion People Being_located Change_posture Posture Vehicle Communication_noise Make_noise Have_as_requirement Needing Required_event People Attention_getting Personal_relationship
+traintweets.tsv:474643673033244672	-1.17	Justifying Aggregate Organization Observable_body_parts
+traintweets.tsv:472137781133979648	-2.73	People Judgment_communication People Theft Fields
+traintweets.tsv:475720236030001152	-2.5	Aggregate Front_for Biological_area Containers
+traintweets.tsv:472470713257848832	-2.4	Clothing Abandonment Departing Quitting Locale_by_use Becoming_aware Locating Clothing
+traintweets.tsv:475834109584220160	-2.33	Desiring Catastrophe Ranked_expectation People Chatting Statement Talking_into Catastrophe Catastrophe
+traintweets.tsv:474777406340075520	-2.33	Evidence Telling
+traintweets.tsv:472204527693619200	3.38	Commerce_buy Commerce_buy Membership Cause_impact Cause_motion Impact Self_motion
+traintweets.tsv:472472158954721280	-2.33	Temporal_collocation Religious_belief Aggregate Type
+traintweets.tsv:472089822937743360	-0.46	Encoding Expressing_publicly Expertise Similarity Dressing Halt Coming_to_believe
+traintweets.tsv:472087093477269504	2.74	Desirability Experiencer_focus Experiencer_focus People
+traintweets.tsv:472316249830359040	1.94	Ranked_expectation Change_of_quantity_of_possession Losing Differentiation Medical_conditions Coming_to_believe Statement
+traintweets.tsv:472388387668627456	-2.68	Go_into_shape Hair_configuration Substance Observable_body_parts Activity_start Process_start Setting_out Calendric_unit Measure_duration Timespan Degree Go_into_shape Hair_configuration Substance Experience_bodily_harm Calendric_unit Measure_duration Timespan
+traintweets.tsv:473207896487235584	-2.37	Success_or_failure Successful_action Change_of_quantity_of_possession Losing
+traintweets.tsv:473504864652111872	-2.78	People Cognitive_connection Success_or_failure Successful_action Cognitive_connection
+traintweets.tsv:474959110606422017	-2.3	Cutting
+traintweets.tsv:472540128640909314	-2.5	Being_awake Perception_active Seeking Participation Bringing Operate_vehicle
+traintweets.tsv:472096723763224576	-2.66	Locale Political_locales
+traintweets.tsv:472587718212730880	-3.05	Make_noise
+traintweets.tsv:472446576783130624	-2.08	Simple_name Natural_features
+traintweets.tsv:472701800026746880	-2.03	Perception_active Calendric_unit
+traintweets.tsv:472583237110603776	-2.96	People Dressing Desiring
+traintweets.tsv:474797793945845761	-3.02	People_by_age
+traintweets.tsv:472350702916743169	-1.15	Experiencer_focus Time_vector Filling
+traintweets.tsv:474897235759857664	-2.2	Becoming_aware Locating Typicality People Locale
+traintweets.tsv:472174802367561728	1.83	Being_awake Perception_active Seeking Opinion Dressing
+traintweets.tsv:472104941151346688	-2.58	Cause_to_start Suasion Subjective_influence
+traintweets.tsv:472057129864822784	-1.61	Color Statement People
+traintweets.tsv:475018529041698816	-2.42	Difficulty Change_of_quantity_of_possession Losing
+traintweets.tsv:474713271677620224	-1.8	Emotion_directed
+traintweets.tsv:475773310014197760	-2.56	Judgment_communication Aggregate Military Speed
+traintweets.tsv:472294159966302208	-1.61	Commerce_buy Statement
+traintweets.tsv:472328769794228224	-2.75	Communication Statement Text_creation Killing Required_event Encounter
+traintweets.tsv:472420243747250176	-2.61	Experiencer_focus
+traintweets.tsv:473547886253596672	-2.52	People Architectural_part Objective_influence Commerce_pay Money
+traintweets.tsv:473894706485948418	-2.78	Commerce_buy Contacting Commerce_scenario Commerce_sell Causation Sending Arriving
+traintweets.tsv:472178727246237696	-3.17	Aggregate Type Awareness Certainty Temporal_collocation Calendric_unit
+traintweets.tsv:472298744646729729	-2.06	Accuracy Becoming_aware Locating
+traintweets.tsv:474894211888992256	-1.83	Becoming_aware Locating Complaining Building Manufacturing Ambient_temperature Subjective_temperature Temperature Causation
+traintweets.tsv:474188083018338304	-2	Organization Locale Containers Cause_motion Manipulation
+traintweets.tsv:474784018320596992	-1.8	Calendric_unit Measure_duration Timespan Perception_active Clothing
+traintweets.tsv:472398364144041984	-3.48	Having_or_lacking_access
+traintweets.tsv:475434156315660288	-2.63	Working_on Being_employed Birth
+traintweets.tsv:475933263169855488	-2.15	Cause_change
+traintweets.tsv:474725970818379776	-1.78	Cause_change_of_position_on_a_scale Cause_to_be_included Commutative_process
+traintweets.tsv:474228906854449153	-1.65	Kinship People_by_age Participation
+traintweets.tsv:472441832593686528	-2.64	Possibility Change_event_time
+traintweets.tsv:472243783581843456	-3.16	Biological_urge Causation Placing Sleep
+traintweets.tsv:475092954101854208	-2.72	Perception_active Color Calendric_unit Measure_duration Timespan Temporal_subregion Calendric_unit
+traintweets.tsv:474517166272696320	-2.33	Being_awake Perception_active Seeking Cause_change
+traintweets.tsv:473203176314011648	-3.51	Perception_experience Feeling Perception_active Perception_experience
+traintweets.tsv:475061500768706560	-2.93	Direction Bringing Operate_vehicle
+traintweets.tsv:472072180034195456	-2.13	People Statement Dressing Foreign_or_domestic_country
+traintweets.tsv:472088100890374144	-1.57	Communication_manner Statement Text_creation Diversity Possession Cause_to_perceive
+traintweets.tsv:472231944608956416	-1.98	Ingestion Food Ingestion Traversing Project Purpose
+traintweets.tsv:472083883018571776	-4.5	Aggregate Obviousness Unattributed_information Change_of_leadership Chatting Statement Talking_into
+traintweets.tsv:473920219849576449	-2.06	Being_obligated Being_in_effect Terrorism
+traintweets.tsv:460217263476330496	-1.54	Receiving
+traintweets.tsv:473827332952580096	-2.48	Cause_to_be_included Inclusion Simple_name Cause_expansion Change_position_on_a_scale Expansion
+traintweets.tsv:472907281521475584	-2.13	People Arriving Being_employed Cause_bodily_experience Assessing
+traintweets.tsv:473455826100060160	-3.14	Releasing Temporal_collocation
+traintweets.tsv:474590322312617985	-2.63	Arriving
+traintweets.tsv:473187674551889920	-0.83	Medical_conditions Education_teaching
+traintweets.tsv:472877361977765888	-2.28	Means Change_position_on_a_scale Quantity
+traintweets.tsv:472894778078535680	-1.78	
+traintweets.tsv:472437562905464832	-3.13	Have_as_requirement Needing Required_event Precipitation Have_as_requirement Needing Required_event
+traintweets.tsv:472600418691088385	-2.76	People Dressing Desiring
+traintweets.tsv:472082389230182400	-2.14	Contacting Text Perception_active Measure_linear_extent
+traintweets.tsv:474259351251582976	-3.49	Make_possible_to_do
+traintweets.tsv:472343097096286208	-1.98	Locale_by_use Representing Offenses Rape Cause_to_perceive Traversing Clothing
+traintweets.tsv:473471633894539265	-2.6	Calendric_unit Measure_duration Timespan Calendric_unit Measure_duration Timespan Being_employed Being_employed Temporal_collocation
+traintweets.tsv:473520061488324608	-3.05	People_by_vocation Differentiation Similarity Causation Placing Arriving Speed
+traintweets.tsv:472372204584185856	-2.61	Judgment_communication Change_of_leadership Chatting Statement Talking_into Change_of_leadership Law Leadership Organization
+traintweets.tsv:463337783755419648	-2.55	Communication Statement Text_creation Linguistic_meaning
+traintweets.tsv:474586483542609921	-3.14	
+traintweets.tsv:475143887644655616	-1.8	Cause_to_perceive
+traintweets.tsv:472062558154022912	-2.76	
+traintweets.tsv:472050064119312384	-1.83	Activity_start Process_start Setting_out Terrorism Required_event Terrorism
+traintweets.tsv:474084890540261376	-2.33	Arriving Communication Statement Text_creation
+traintweets.tsv:474797977501179904	-3.44	Awareness Categorization Opinion Regard Perception_active Scrutiny Seeking Existence
+traintweets.tsv:472034377204240384	-1.34	Desirability Expertise Social_interaction_evaluation Usefulness People Wearing Quantity Rank Hair_configuration Observable_body_parts
+traintweets.tsv:472357975068536833	-1.81	Vehicle
+traintweets.tsv:474356840441344001	-2.31	Text
+traintweets.tsv:473889494308245504	-3.55	Experiencer_focus Becoming_aware Coming_to_believe Perception_active Perception_experience Event Eventive_affecting Cardinal_numbers Calendric_unit Measure_duration Familiarity
+traintweets.tsv:472898591422296064	-1.61	Reading
+traintweets.tsv:472344038419759105	-2	People Complaining Clothing Linguistic_meaning Intentionally_act
+traintweets.tsv:472029542937538560	0.51	Experiencer_focus Substance Containers Measure_volume
+traintweets.tsv:472385407632805888	-1.85	Awareness Categorization Opinion Regard First_rank Leadership Judgment
+traintweets.tsv:473271284730589184	-2.95	Wearing Food Perception_active
+traintweets.tsv:472329818361835520	-1.98	
+traintweets.tsv:472163082224275456	-2.87	Commerce_sell Aggregate Cardinal_numbers Position_on_a_scale Wealthiness
+traintweets.tsv:473812287677947904	-2.58	Awareness Categorization Opinion Regard Being_awake Perception_active Seeking Containers
+traintweets.tsv:475364335926005760	-1.98	People Communication Statement Text_creation
+traintweets.tsv:474194029757079553	-2.49	Becoming_aware Coming_to_believe Perception_active Perception_experience People Accoutrements Communication Statement Text_creation
+traintweets.tsv:473426862887018496	-2.64	People Awareness Categorization Opinion Regard Identicality Similarity Desiring Identicality Similarity Identicality Similarity
+traintweets.tsv:474880225738625024	-1.92	Text Calendric_unit Measure_duration Timespan
+traintweets.tsv:472214074009219072	-1.81	Subordinates_and_superiors Clothing Communication Statement Text_creation Temporary_stay People
+traintweets.tsv:472412036522319872	-2.17	Ranked_expectation Questioning Food
+traintweets.tsv:472208970560851968	-2.15	Ranked_expectation Awareness Certainty Vehicle Calendric_unit Measure_duration Containers
+traintweets.tsv:474283963003854848	1.1	Perception_experience People Intoxicants Building Manufacturing
+traintweets.tsv:472412283390689281	-1.78	Ranked_expectation Questioning Food
+traintweets.tsv:474655882295644160	-3.27	Animals Being_named Labeling Referring_by_name Simple_naming Building Employing
+traintweets.tsv:475426848265207808	-2.56	Legality Morality_evaluation Working_on Being_employed Birth
+traintweets.tsv:472155282802352128	-1.51	Communication Statement Text_creation Identicality Similarity Experience_bodily_harm
+traintweets.tsv:474351200536506368	-1.88	People Simple_name
+traintweets.tsv:475392577802616835	-2.57	Locale
+traintweets.tsv:474386670197145600	-2.28	Holding_off_on Waiting Taking_time Speed Taking_time
+traintweets.tsv:472408153640816641	-2.81	
+traintweets.tsv:472413976643371009	-2	Text Text
+traintweets.tsv:474011952457347072	-2.85	Committing_crime People
+traintweets.tsv:472447891815268352	-1.3	Statement Text_creation Intentionally_act Intoxicants Intoxicants
+traintweets.tsv:475812008248741888	-2.13	Being_awake Perception_active Seeking Clothing Relative_time Simultaneity
+traintweets.tsv:472186831283306497	-4.5	Dressing Taking_time Money Commerce_pay Money
+traintweets.tsv:472447887692288000	-2.19	Body_movement Cause_motion Degree Fairness_evaluation Likelihood
+traintweets.tsv:472086297289322496	-1.8	Evidence Telling
+traintweets.tsv:472044680985989120	2.38	Custom Legality Employing
+traintweets.tsv:472228431162134528	-2.64	Commerce_pay Commerce_scenario Morality_evaluation
+traintweets.tsv:472035341440798720	1.13	Event
+traintweets.tsv:473889389127282690	-2.03	Event_instance Location_in_time Timespan Sufficiency
+traintweets.tsv:474320306123714560	-3.02	Kinship Accoutrements Kinship Awareness Certainty Sensation
+traintweets.tsv:472332564821467136	-1.78	Awareness Categorization Opinion Regard Discussion Law Political_locales
+traintweets.tsv:472072408753381376	2.74	Cause_to_perceive Communication Being_at_risk
+traintweets.tsv:475330249115590656	-3.77	Forming_relationships Temporal_collocation Personal_relationship Personal_relationship Calendric_unit Measure_duration Timespan
+traintweets.tsv:472138489635807232	-2.33	Awareness Certainty
+traintweets.tsv:472377931839598593	-1.83	Locale_by_use Political_locales Differentiation People_by_origin Death
+traintweets.tsv:472380337998548992	-1.86	Evaluative_comparison
+traintweets.tsv:472420759877713920	-2.61	Locale Change_of_quantity_of_possession Losing Substance
+traintweets.tsv:475283199476518912	-2	Containers Commerce_pay Money Assistance People People
+traintweets.tsv:474845561670340609	-2.06	Beat_opponent Ranked_expectation Experiencer_obj Attempt Attempt_means Aggregate Quantity
+traintweets.tsv:474651935136813056	-2.7	Dimension Measurable_attributes
+traintweets.tsv:472090322458009600	2.05	Experiencer_focus Building_subparts Wearing Experiencer_focus Buildings Clothing
+traintweets.tsv:472623986040242176	-1.5	Desiring Sleep Clothing_parts Fastener
+traintweets.tsv:472334770060656640	-2.85	
+traintweets.tsv:472248431612661760	-2.31	Dressing Desiring Desiring
+traintweets.tsv:472203493298561024	-2.08	Attention
+traintweets.tsv:473108737486372865	-1.5	Emotion_directed Appearance
+traintweets.tsv:474761202175074304	-3.02	Statement
+traintweets.tsv:473119850588409856	-0.74	Emotion_active Cause_change_of_position_on_a_scale Cause_to_be_included Commutative_process Emotion_active
+traintweets.tsv:474756658238070784	-2.44	
+traintweets.tsv:472081909485686785	-2.49	Architectural_part
+traintweets.tsv:472172500013428736	-1.85	Commerce_buy Commerce_buy Membership Cause_impact Cause_motion Impact Self_motion
+traintweets.tsv:472287244896960512	-3.16	Communication Statement Text_creation People
+traintweets.tsv:474381616555384833	-2.96	Communication Statement Text_creation People Law Capacity Suitability
+traintweets.tsv:474199731879411712	-2.3	Holding_off_on Waiting Moving_in_place Change_position_on_a_scale People_by_vocation Certainty Likelihood Linguistic_meaning
+traintweets.tsv:473301283399417856	-2.22	Getting Purpose
+traintweets.tsv:472130221169471488	-2.81	Communication Statement Text_creation Aggregate
+traintweets.tsv:472339158929666049	-2.75	Cardinal_numbers
+traintweets.tsv:475469888253751296	-3.05	Calendric_unit Measure_duration Timespan Behind_the_scenes Working_on Buildings Expected_location_of_person Cognitive_connection Medical_conditions Collaboration Kinship People_by_age
+traintweets.tsv:475689524970811392	-2.72	Desiring
+traintweets.tsv:473530204330426368	-0.58	Desiring Cause_impact Cause_motion Impact Self_motion Dressing Desiring
+traintweets.tsv:472211289809244161	-0.43	Feeling Perception_active Perception_experience Perception_experience
+traintweets.tsv:475801468537417728	-2.08	
+traintweets.tsv:472867117516480512	-0.33	Bringing Carry_goods Sign Process_end
+traintweets.tsv:474397293429653504	-2.88	Choosing Deciding Eventive_cognizer_affecting Purpose
+traintweets.tsv:475399860016140288	-2.31	
+traintweets.tsv:472840286742536193	-1.85	Commerce_buy People_by_vocation Building_subparts Chemical-sense_description Perception_active Perception_experience
+traintweets.tsv:474755850046033921	-0.9	Aggregate
+traintweets.tsv:472882354030399488	-2.44	People
+traintweets.tsv:472408700154429442	-2.87	Participation
+traintweets.tsv:472310337212276736	-1.65	Experiencer_obj Communication Statement Text_creation
+traintweets.tsv:474695746017849345	-3.16	Perception_experience People
+traintweets.tsv:472223675044085760	-2.74	People Facial_expression Observable_body_parts Bringing Operate_vehicle Personal_relationship
+traintweets.tsv:472154732812050432	-2.87	Personal_relationship Beat_opponent Kinship People_by_age Kinship Existence
+traintweets.tsv:473275812251049984	-2.19	Choosing Roadways Becoming_aware Coming_to_believe Perception_active Perception_experience Roadways
+traintweets.tsv:472122864624078849	-3.75	Coming_to_believe Being_in_effect Causation Objective_influence Perception_active Scrutiny Seeking Attempt Attempt_means Commerce_buy
+traintweets.tsv:472999375149756417	-1.61	Protecting
+traintweets.tsv:472197180644552704	-2.19	Simple_name Degree
+traintweets.tsv:474942463246094336	-3.51	People_by_origin Food Food Buildings
+traintweets.tsv:474763885346836480	-2.73	Simple_name
+traintweets.tsv:472049870094999552	3.82	
+traintweets.tsv:475676316272828417	-2.49	Typicality Ranked_expectation Awareness Categorization Opinion Regard
+traintweets.tsv:472356311758536704	-3.18	Temporal_collocation Assessing Examination
+traintweets.tsv:472169414297534464	-1.81	Attack Appearance
+traintweets.tsv:473137949941706752	-2.07	
+traintweets.tsv:472105615309828096	-1.98	Make_noise Opportunity
+traintweets.tsv:472208032106283008	1.96	Temporal_collocation People Request Correctness Sounds Have_as_requirement Needing Required_event Correctness
+traintweets.tsv:473675095764774912	3.3	Catastrophe Catastrophe Attempt_suasion People Emotions_by_stimulus Catastrophe Dressing Catastrophe
+traintweets.tsv:473742094901600256	0.98	Attention_getting People Make_cognitive_connection Social_connection
+traintweets.tsv:472181268512538624	-2.71	Direction
+traintweets.tsv:475083398482911232	-2.44	Dressing
+traintweets.tsv:473427606834905088	-2.64	People People
+traintweets.tsv:472152808678907904	-1.8	Assessing Reading Health_response
+traintweets.tsv:460813539071238144	-1.19	Color Giving Passing Containers Roadways
+traintweets.tsv:472172797049860096	-2.81	Ranked_expectation Perception_experience People_by_origin Perception_experience Communication Statement Text_creation
+traintweets.tsv:472175976886329344	-0.61	Communication_manner Make_noise Perception_active Scrutiny Seeking
+traintweets.tsv:472942644482801664	-2.87	Perception_active Scrutiny Seeking Being_employed Calendric_unit
+traintweets.tsv:472381619416731648	-2.44	Observable_body_parts Becoming_aware Locating
+traintweets.tsv:472428466491514880	-2.88	Arriving Vehicle Organization Contacting
+traintweets.tsv:474951386678169600	-2.19	Social_interaction_evaluation Telling
+traintweets.tsv:474182635451723776	-1.29	
+traintweets.tsv:472217414156185600	-2.72	Achieving_first
+traintweets.tsv:473778823071150080	-0.56	Have_as_requirement Needing Required_event Wearing Wearing Clothing
+traintweets.tsv:474259420616994818	-2.06	Dimension Measurable_attributes Position_on_a_scale Assessing
+traintweets.tsv:475416875019415552	-2.31	Aggregate Organization Color People Color People Color
+traintweets.tsv:472129931581730816	1.51	Stimulus_focus Statement Perception_active Scrutiny Seeking
+traintweets.tsv:472180977566228481	2.11	Perception_active Go_into_shape Hair_configuration Substance Calendric_unit Measure_duration
+traintweets.tsv:472165340546228224	-2.13	Commerce_sell Aggregate Cardinal_numbers Position_on_a_scale Wealthiness
+traintweets.tsv:472233202124603392	-2.63	Desirability Self_motion Cause_change
+traintweets.tsv:475719663041531904	-1.2	Attaching Closure Inchoative_attaching Locale Containers
+traintweets.tsv:472177964272988160	-2.17	Trial Sleep Success_or_failure Means Working_on Motion_directional
+traintweets.tsv:463244766109769728	-3	Dead_or_alive
+traintweets.tsv:472239984234090496	-2.6	Businesses Theft People_by_morality Offenses
+traintweets.tsv:472817831894331392	-2.49	
+traintweets.tsv:472095774206341122	1.21	Attention_getting Building_subparts Part_ordered_segments Text Notification_of_charges Attention_getting Building_subparts Operating_a_system Success_or_failure Successful_action
+traintweets.tsv:472915664085082112	-2.87	Dimension Measurable_attributes Position_on_a_scale Questioning
+traintweets.tsv:473940052318228480	-3.51	Political_locales Being_at_risk
+traintweets.tsv:474318990668341249	-3.47	Perception_experience Calendric_unit Temporal_subregion Temporal_collocation Aggregate Type Awareness Categorization Opinion Regard Degree Correctness
+traintweets.tsv:472091625066598400	0.93	
+traintweets.tsv:472155057740595200	-2.18	Timespan Means Arriving
+traintweets.tsv:472079202578350081	3.6	Buildings Becoming_aware Locating Scrutiny Legality Point_of_dispute Awareness
+traintweets.tsv:473132611473526784	-2	Complaining Desiring Communication Statement Text_creation
+traintweets.tsv:472163409983991808	-0.96	Awareness Categorization Opinion Regard People Observable_body_parts
+traintweets.tsv:472236919771127808	-2.66	Statement Text_creation Kinship Cause_motion Moving_in_place Sleep Cause_harm Facial_expression Observable_body_parts
+traintweets.tsv:473515366833217536	-3.65	Communication Statement Text_creation People
+traintweets.tsv:472161144711680000	-2.86	Point_of_dispute Change_of_leadership
+traintweets.tsv:474144824904654848	-2.5	Coming_to_believe
+traintweets.tsv:472208318958944256	-2.85	Evoking Memory Remembering_experience Remembering_information Remembering_to_do Evidence Differentiation
+traintweets.tsv:472083001028120576	0.96	Calendric_unit Measure_duration Attention_getting Attention_getting
+traintweets.tsv:472155289550979072	-0.79	Process_end Process_end People
+traintweets.tsv:472702992597008384	-2.66	Facial_expression Observable_body_parts Usefulness Perception_active Scrutiny Seeking
+traintweets.tsv:474795454324961280	-2.33	Feeling Perception_active Perception_experience Calendric_unit Measure_duration Timespan Calendric_unit
+traintweets.tsv:475102518788124672	-3.49	Speak_on_topic Topic Biological_area
+traintweets.tsv:473875797703684097	-2.44	Text Reading Awareness Grasp Statement Text_creation
+traintweets.tsv:472410277817114624	-3.48	People Judgment_communication Participation Complaining Buildings Expected_location_of_person
+traintweets.tsv:473491785843740674	1.74	Kinship Possibilities Mental_property Text
+traintweets.tsv:473623777545572352	-2.86	Experiencer_focus Experiencer_obj Eclipse Similarity Awareness Cogitation Cognitive_connection Mental_property Choosing Simple_name
+traintweets.tsv:472189750384672768	1.9	Desirability Expertise Social_interaction_evaluation Usefulness Awareness Certainty Weapon Law Protecting People Compliance Defend Secrecy_status Being_at_risk Risky_situation
+traintweets.tsv:472153058936619008	-1.24	Frequency Certainty Trust
+traintweets.tsv:472314123565690880	-0.7	Means Education_teaching Coming_to_be Origin Means Encoding Expressing_publicly Awareness Communication_manner Statement Text_creation
+traintweets.tsv:473662884615294976	-3.95	Awareness Certainty
+traintweets.tsv:474625046980612098	-3.09	Make_noise Being_awake Perception_active Seeking Statement Make_noise Calendric_unit Measure_duration Timespan
+traintweets.tsv:472260395483156480	-2.48	Examination Appearance Obviousness Similarity Possession
+traintweets.tsv:472227319990341632	-3.48	Natural_features Cause_harm Cutting
+traintweets.tsv:472110435496640513	-2.88	Locale_by_use Presence
+traintweets.tsv:472191554875310080	4.27	Ranked_expectation Questioning Cotheme Self_motion Awareness Grasp Questioning Hear Perception_experience
+traintweets.tsv:472473443938881538	-2.87	
+traintweets.tsv:472260065198891008	1.57	
+traintweets.tsv:473821912905547777	-1.3	Participation Locale Containers Abandonment Departing Quitting Buildings Expected_location_of_person
+traintweets.tsv:460425608934457344	-2.76	Morality_evaluation Taking_time Calendric_unit Measure_duration
+traintweets.tsv:472365441038290945	-1.83	Quantity
+traintweets.tsv:472091258006286337	2.34	Building Cause_to_start Coming_up_with Creating Intentionally_create Be_in_control Aggregate Organization Turning_out Working_on
+traintweets.tsv:474319106389204992	-2.88	Achieving_first Becoming_aware Kinship Means
+traintweets.tsv:474579296691187712	-2.17	Arriving Causation Placing
+traintweets.tsv:472192443908390912	1.7	Accuracy Performing_arts Calendric_unit
+traintweets.tsv:472035697767886848	-2	Awareness Certainty Desirability Importance People Remembering_experience Remembering_information Remembering_to_do Importance Motion Travel Relation
+traintweets.tsv:472224890746318850	-1.61	Expressing_publicly Facial_expression Desirability Expertise Social_interaction_evaluation Usefulness Food
+traintweets.tsv:472155201622007808	-2.96	Being_awake Perception_active Seeking Contacting
+traintweets.tsv:472228942271627265	-2.44	Organization Cardinal_numbers
+traintweets.tsv:472441957625520128	-2	Examination Operational_testing Trying_out Dimension Examination Operational_testing Trying_out
+traintweets.tsv:474559161124917248	-1.2	Personal_relationship Locale Personal_relationship Social_event_collective Personal_relationship
+traintweets.tsv:472128896629227521	-2.58	Awareness Certainty Ranked_expectation Dressing
+traintweets.tsv:473927293992042496	-2	Age Prison
+traintweets.tsv:473964266857304064	-3.02	Response
+traintweets.tsv:472782224597987328	-3.58	Participation Text Calendric_unit Measure_duration Timespan
+traintweets.tsv:475864317040918528	-2.34	Participation
+traintweets.tsv:472029450398597120	-2.63	Eclipse
+traintweets.tsv:474514612327825408	-1.54	Sending Text
+traintweets.tsv:472710546283036672	-2.49	Expertise Duplication Expertise
+traintweets.tsv:473835956429008896	-3.49	
+traintweets.tsv:472224749720846337	1.6	Desiring People Evidence Telling Desiring Candidness
+traintweets.tsv:474949773917573120	-0.56	Text
+traintweets.tsv:472184970610745345	-1.88	Communication_manner Statement Text_creation Calendric_unit Measure_duration Vehicle
+traintweets.tsv:472633085868392448	-2.42	Expectation People Communication_manner Statement Text_creation Existence State_continue Leadership
+traintweets.tsv:475711741289304064	-2.81	Desirability Expertise Social_interaction_evaluation Usefulness Differentiation Relational_quantity
+traintweets.tsv:472162745526517760	2.29	Commerce_sell Aggregate Cardinal_numbers Position_on_a_scale Wealthiness
+traintweets.tsv:472361240358948864	-2.19	Appearance Cardinal_numbers Active_substance
+traintweets.tsv:472121281023057920	-2.87	Ranked_expectation Part_inner_outer People
+traintweets.tsv:474600440269905920	-1.3	Aggregate Reveal_secret Statement Event_instance Risky_situation People
+traintweets.tsv:472173683801600000	-0.46	Perception_experience
+traintweets.tsv:472214771509366784	-3.05	Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Openness Prison Buildings
+traintweets.tsv:472777083710496769	-0.75	Commerce_sell Buildings Commerce_pay Buildings Coincidence Means Commerce_buy
+traintweets.tsv:472185296230940672	-2.81	Kinship People_by_age
+traintweets.tsv:472237990840782848	-2.86	Desiring Desirability Text_creation Awareness Cogitation Means
+traintweets.tsv:474646092236488704	-2.31	Substance Awareness Certainty Commerce_pay Money Emotion_active Relative_time Time_vector
+traintweets.tsv:475225947478953984	-2.87	People Being_awake Perception_active Seeking Calendric_unit Awareness Certainty Ranked_expectation Locale Animals
+traintweets.tsv:472143810752151552	-3.1	Body_description_holistic Surviving Communication_noise Complaining Make_noise Assistance Facial_expression Observable_body_parts
+traintweets.tsv:472196503423823873	-3.55	Optical_image Sensation
+traintweets.tsv:472264382844772352	-1.65	Experiencer_obj Hear Perception_experience Importance Buildings Relational_quantity
+traintweets.tsv:473060931732512768	-1.17	Personal_relationship Mental_property
+traintweets.tsv:472097824083955712	-3.18	Natural_features Communication Statement Text_creation
+traintweets.tsv:473985728611758081	-2.5	People_by_origin Organization
+traintweets.tsv:472204460333101056	-1.59	Measure_duration Locale
+traintweets.tsv:472056694336655360	-1.66	Color Statement People
+traintweets.tsv:475050306858782720	-2.57	Catastrophe People Activity_start Process_start Setting_out Coming_to_believe Perception_active Evidence
+traintweets.tsv:473640254784536576	-2.87	
+traintweets.tsv:472189609829756928	-3.34	Installing Communication Statement Text_creation State_of_entity Protecting
+traintweets.tsv:474715119591899136	-3.55	Calendric_unit Measure_duration Awareness Categorization Opinion Regard Experiencer_focus Relational_quantity Education_teaching Subordinates_and_superiors
+traintweets.tsv:472137058731831297	1.42	Sex Kinship Creating
+traintweets.tsv:475288831953240064	-2.86	Experiencer_focus Calendric_unit Project Purpose Aggregate Organization
+traintweets.tsv:474267576340451328	-1.29	
+traintweets.tsv:472389399745794048	-2	Bringing Operate_vehicle
+traintweets.tsv:473222011137687552	-2.49	
+traintweets.tsv:472198591814303744	0.77	Coming_up_with Gizmo System Make_possible_to_do
+traintweets.tsv:472582541745348608	-2.06	Degree Process_end Existence Calendric_unit Measure_duration
+traintweets.tsv:474299931201900544	-3.75	Taking_time Clothing
+traintweets.tsv:475370169137897472	-2	Killing Calendric_unit Perception_active Scrutiny Seeking
+traintweets.tsv:472121892355051521	-2.15	Reading Part_ordered_segments Text
+traintweets.tsv:472153889622343680	-2.78	Ranked_expectation Perception_active Text Education_teaching Vocalizations Desiring Communication_noise Observable_body_parts
+traintweets.tsv:474949341275488256	2.6	
+traintweets.tsv:472412376047050753	-1.8	Awareness Categorization Opinion Regard Awareness Certainty
+traintweets.tsv:472894684332060672	2.69	Perception_experience Facial_expression Observable_body_parts Weather Cause_fluidic_motion Fluidic_motion
+traintweets.tsv:473338442316021760	-2.86	Activity_start Calendric_unit Measure_duration
+traintweets.tsv:473563105235320833	-3.27	Arriving Locale_by_use Appearance Having_or_lacking_access Familiarity Awareness Cogitation
+traintweets.tsv:474629041249468417	-3.47	Familiarity Working_on Being_employed Food
+traintweets.tsv:475062973354885120	-3.44	Relational_natural_features Temporal_collocation Attempt Attempt_means Commerce_buy Ingredients Substance
+traintweets.tsv:474304039597780992	-1.92	Catastrophe
+traintweets.tsv:472374472775696387	-0.08	Personal_relationship Working_on Businesses Ranked_expectation Activity_finish Expertise Desiring Arriving
+traintweets.tsv:472055281912795136	-1.66	Commerce_pay Money Turning_out Dressing Required_event
+traintweets.tsv:474127591088357376	-3.47	Self_motion Location_of_light
+traintweets.tsv:472173776361508864	-1.76	State_of_entity Simple_name Communication Mental_property
+traintweets.tsv:472428639666323457	-0.46	Arriving Awareness Grasp Calendric_unit Measure_duration
+traintweets.tsv:472330407266906112	-2.02	Evaluative_comparison Assessing Success_or_failure Similarity Degree Commitment
+traintweets.tsv:472342225159221248	-2.2	People_by_vocation Usefulness Religious_belief Communication Statement Text_creation Simple_name Prominence Compliance Personal_relationship
+traintweets.tsv:472109652747235330	-1.81	Desiring
+traintweets.tsv:474070223214379009	-2.86	Communication_noise Make_noise Motion_noise
+traintweets.tsv:475008865445347328	-2.81	Event_instance Location_in_time Timespan People Required_event Required_event
+traintweets.tsv:472447282034782208	1.62	People Kinship People_by_age
+traintweets.tsv:472142492578881537	-2.26	Desiring Vehicle People_by_origin Locale
+traintweets.tsv:472257047476445184	-0.46	
+traintweets.tsv:474944966608048128	2.35	Attaching Public_services Businesses Body_movement Closure Being_employed Contacting Body_movement Change_posture
+traintweets.tsv:473815883786489856	-2.33	Measure_mass Statement Calendric_unit Statement
+traintweets.tsv:474397731750830080	-2.37	
+traintweets.tsv:472517083142828034	-2.87	Being_located Change_posture Posture Roadways Vehicle
+traintweets.tsv:472202856850657281	-2.07	Measure_linear_extent Ranked_expectation Ingestion Event_instance Location_in_time Timespan Calendric_unit Measure_duration Locale Being_named Labeling Referring_by_name Simple_naming Departing
+traintweets.tsv:473546763681677312	-2.33	Awareness Certainty Manipulate_into_doing
+traintweets.tsv:475266519044075522	-2.57	Usefulness Familiarity Usefulness System
+traintweets.tsv:472453422265147392	-3.02	Coincidence Judgment_communication Manipulate_into_doing Familiarity Temporal_collocation Manipulate_into_doing
+traintweets.tsv:472318891948257280	-3.49	Perception_experience Text Simple_name Personal_relationship Being_named Labeling Referring_by_name Simple_naming People Being_named Referring_by_name
+traintweets.tsv:472048493792858113	2.38	People Judgment_communication Dressing
+traintweets.tsv:472574493354123267	-2.19	Temporal_collocation Participation Means
+traintweets.tsv:472414353741086720	1.9	
+traintweets.tsv:474351315175211009	-2.42	Degree People Finish_competition Finish_game Win_prize
+traintweets.tsv:472314317917130752	-2.5	Desirability Expertise Social_interaction_evaluation Usefulness Chatting
+traintweets.tsv:472342309002956800	-1.86	Make_cognitive_connection Judgment_direct_address
+traintweets.tsv:474454180330221568	-2.66	Contacting Enforcing Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Containers
+traintweets.tsv:472189149932306433	-1.88	Commerce_sell Aggregate Cardinal_numbers Position_on_a_scale Wealthiness
+traintweets.tsv:472064907110674432	-2.49	Chatting Statement Talking_into
+traintweets.tsv:472325577655857152	2.3	Dressing Attempt_suasion Experiencer_obj Bringing Operate_vehicle
+traintweets.tsv:474967311724474369	-2.64	
+traintweets.tsv:473121779238862848	-1.3	Food
+traintweets.tsv:472673793584803841	-2.2	Cause_change State_of_entity
+traintweets.tsv:472405194337452032	-3.27	Measurable_attributes
+traintweets.tsv:472132694441476097	-2.64	Finish_competition Finish_competition Finish_game Win_prize Gizmo System Desiring
+traintweets.tsv:473078770962685952	-2.12	Calendric_unit Being_employed Desiring Being_employed Education_teaching People_by_vocation
+traintweets.tsv:472086444668760064	-2.33	Desiring Choosing Deciding Eventive_cognizer_affecting Desiring Experiencer_focus
+traintweets.tsv:472820813859528704	-2.85	Becoming_aware Locating Linguistic_meaning
+traintweets.tsv:472079978285121536	-0.57	Perception_active
+traintweets.tsv:472099062289039361	-2.36	Sounds Arriving
+traintweets.tsv:472075499158913025	0.43	Cause_to_perceive Grinding Wealthiness Attending
+traintweets.tsv:472459201818931200	-1.89	Feeling Perception_active Perception_experience Request
+traintweets.tsv:474540194834546689	-3.03	Commerce_sell
+traintweets.tsv:472561617746812928	-3.05	Expressing_publicly Facial_expression Bungling Frugality
+traintweets.tsv:473480122830290944	-0.56	Locale_by_use
+traintweets.tsv:472256488136638464	-2.49	Personal_relationship Prevarication Kinship People_by_age Dressing Awareness Certainty Emotion_directed Judgment_direct_address
+traintweets.tsv:473100910835826688	-3.16	
+traintweets.tsv:472269703617196032	-3.19	Similarity Trying_out Fear
+traintweets.tsv:473967966371844096	-2.87	Ranked_expectation Communication Statement Text_creation Event_instance Location_in_time Timespan Similarity
+traintweets.tsv:473116077124509696	-2.56	Reading Calendric_unit Ranked_expectation Communication_manner Statement Text_creation
+traintweets.tsv:473199846518571008	1.51	Ranked_expectation Timespan Calendric_unit Calendric_unit
+traintweets.tsv:472167983423713280	-1.14	Precipitation Text
+traintweets.tsv:472395011053465600	-2.81	Experiencer_obj Political_locales Attempt_suasion Commerce_sell
+traintweets.tsv:472431780470198272	-1.2	Commerce_pay Money Emotion_directed Aggregate Organization Being_named Referring_by_name
+traintweets.tsv:472538812963250177	-2	Desiring Change_of_leadership Commitment Omen
+traintweets.tsv:474759225856372737	-4.11	Change_of_quantity_of_possession Losing Change_of_quantity_of_possession Losing
+traintweets.tsv:472043165369647104	-3.95	People_by_age Aggregate Aggregate Organization People_by_vocation Aggregate
+traintweets.tsv:472074073174847488	-0.96	Sign Reason Being_employed Sign Communication Statement Text_creation
+traintweets.tsv:473241008109813760	-2.63	Experiencer_focus Perception_experience Being_employed
+traintweets.tsv:472382776079953920	-2.33	
+traintweets.tsv:474579699235303425	-3.02	State_of_entity Calendric_unit Emotion_directed
+traintweets.tsv:473035713727184896	-2.96	
+traintweets.tsv:474325770903764992	0.35	People_by_origin Similarity
+traintweets.tsv:473128419140861954	2.11	Kinship
+traintweets.tsv:472098855127744513	-2.12	People Awareness Categorization Opinion Regard Timespan Accoutrements Measure_duration Calendric_unit Measure_duration
+traintweets.tsv:472030852936110081	-0.45	Being_at_risk Discussion
+traintweets.tsv:472404302347386880	-2.48	Becoming_aware Coming_to_believe Perception_active Perception_experience People Vehicle Part_inner_outer
+traintweets.tsv:472474194517950464	-2.5	Emotion_directed People
+traintweets.tsv:472171823807733760	-1.36	Being_employed
+traintweets.tsv:475040306270728193	-1.17	Dressing
+traintweets.tsv:472130412878503936	-2	People Capacity Communication Statement Text_creation
+traintweets.tsv:473782311864270849	-1.88	People People
+traintweets.tsv:474331905169428480	4.4	Communication Statement Text_creation Emotion_active Participation People
+traintweets.tsv:472085515152674817	0.2	Desiring Education_teaching Performing_arts Custom
+traintweets.tsv:474300816095182849	-3.77	Perception_experience Familiarity
+traintweets.tsv:472369300523982848	-2.87	Bringing Carry_goods Awareness
+traintweets.tsv:472460166613712897	-2.44	Relational_political_locales Be_in_agreement_on_assessment Make_agreement_on_action
+traintweets.tsv:473148084558782464	-3.02	Degree Statement
+traintweets.tsv:472378169224609792	-0.9	Timespan Experiencer_focus Sex
+traintweets.tsv:475425773906432000	-1.65	Experiencer_focus Becoming_aware Locating Excreting
+traintweets.tsv:474304114739118080	-2.52	Statement Temporal_collocation Time_vector Statement Judicial_body
+traintweets.tsv:472891896348438529	-1.81	People Secrecy_status Speak_on_topic Topic Existence
+traintweets.tsv:472689395309346817	-3.61	Event_instance Location_in_time Timespan Political_locales Participation
+traintweets.tsv:472453179376803840	0.18	
+traintweets.tsv:472162947239002113	-2	Commerce_buy
+traintweets.tsv:472361496136417280	2.34	Likelihood Taking_time Event_instance Location_in_time Timespan
+traintweets.tsv:474267516458397697	-0.64	Ranked_expectation
+traintweets.tsv:474451673189216256	3.39	People Regard Locale Colonization Observable_body_parts Text
+traintweets.tsv:472801811489771520	2.07	Awareness Certainty Personal_relationship Communication Statement Text_creation Personal_relationship
+traintweets.tsv:472388607743766528	2.34	Kinship People_by_age Prevarication
+traintweets.tsv:473283950761504769	-2.63	Cause_harm Cutting Containers
+traintweets.tsv:474913449324339200	-3.49	Representing
+traintweets.tsv:472135864597094400	-2.57	Correctness Point_of_dispute Event_instance Location_in_time Timespan Calendric_unit
+traintweets.tsv:472446271526277120	-1.8	Estimating Attack Invading
+traintweets.tsv:474304300210864128	-2.2	Appearance Experiencer_obj Cause_to_be_included Inclusion
+traintweets.tsv:474706363814117376	-2	Communicate_categorization Placing Observable_body_parts
+traintweets.tsv:472171886328422400	-3.61	Awareness Certainty Ranked_expectation Light_movement Location_of_light Facial_expression Evoking Memory Remembering_experience Remembering_information Remembering_to_do Relative_time Text Aggregate Type
+traintweets.tsv:472589521595674624	-1.7	Facial_expression Observable_body_parts Similarity
+traintweets.tsv:472164941567655937	-2.87	Communication_manner Statement Text_creation Calendric_unit Measure_duration Vehicle
+traintweets.tsv:475526885976588288	-3.47	Judgment
+traintweets.tsv:472358741191319553	-2.13	Being_located Change_posture Posture Architectural_part Aggregate Type Holding_off_on Waiting
+traintweets.tsv:472364189672288256	0.32	Experiencer_focus Experiencer_focus
+traintweets.tsv:474016746156720128	-2.07	Finish_competition Finish_game Win_prize Likelihood Commerce_pay Resolve_problem Emotion_directed
+traintweets.tsv:472105573115117568	-3.49	
+traintweets.tsv:472169165349224448	-3.19	Awareness Certainty Achieving_first Coming_up_with Event Destroying Event
+traintweets.tsv:474355591352446976	-2.44	Bringing Operate_vehicle
+traintweets.tsv:475064525104742400	-3.16	Point_of_dispute Weather Experiencer_focus Part_orientational Topic
+traintweets.tsv:475429705207001088	3.41	Working_on Being_employed Birth
+traintweets.tsv:474866998522814464	-2.31	Participation Causation Ambient_temperature Subjective_temperature Temperature
+traintweets.tsv:474980212401508352	-1.2	Locale Relational_quantity Reshaping
+traintweets.tsv:475181661190381568	-1.88	Means Ambient_temperature Subjective_temperature Temperature Desirability Expertise Social_interaction_evaluation Usefulness Buildings Expected_location_of_person
+traintweets.tsv:472033961729089536	3.33	Feeling Perception_active Perception_experience Perception_experience People Optical_image Sensation Commerce_sell Predicament
+traintweets.tsv:475033494561619968	-1.65	Part_orientational Judgment
+traintweets.tsv:472632353693528065	-2.03	Unattributed_information Body_movement Change_posture Observable_body_parts State_of_entity Means Possibility
+traintweets.tsv:474543748387717121	-3.49	Contacting Buildings Personal_relationship
+traintweets.tsv:472055340201435136	-2.64	Perception_experience Kinship People Judgment Cotheme Self_motion Building_subparts Connecting_architecture
+traintweets.tsv:472347846604492801	-3.13	Relative_time Calendric_unit Measure_duration Aggregate
+traintweets.tsv:475296345729662976	-1.86	Connecting_architecture Possibility
+traintweets.tsv:475496846878445568	-4.04	Perception_active Scrutiny Seeking
+traintweets.tsv:474765564268003328	-1.78	Degree People Dressing Awareness Certainty
+traintweets.tsv:472225098691543041	-3.47	Simple_name
+traintweets.tsv:474225423585259520	-2.61	Attempt Attempt_means Attempt_suasion Manipulate_into_doing Request
+traintweets.tsv:474719128616726528	-2.28	Evoking Memory Remembering_experience Remembering_information Remembering_to_do People_by_vocation Hostile_encounter Quarreling Means Roadways Political_locales
+traintweets.tsv:472092148746051584	1.74	Vehicle Aesthetics
+traintweets.tsv:473929776869019648	-1.29	Calendric_unit Measure_duration Timespan Touring Travel Touring Travel Cause_impact Cause_motion Impact Self_motion Touring Travel Ranked_expectation Measure_duration Relative_time Time_vector
+traintweets.tsv:474354814613078016	-2.87	Natural_features
+traintweets.tsv:474299502632116224	-0.58	Change_event_time Quitting_a_place Money
+traintweets.tsv:472218988936962048	-3.49	Text Dressing Required_event Motion_directional
+traintweets.tsv:472137237648662529	2.69	Observable_body_parts
+traintweets.tsv:472295383960649728	-1.92	Inspecting Scrutiny Sounds Evidence Telling Omen
+traintweets.tsv:472466012789415936	-3.09	Social_event Locale Becoming_aware Locating Verdict Expressing_publicly Facial_expression Request Frequency Speed
+traintweets.tsv:472141336481923072	-1.54	Event Eventive_affecting Holding_off_on Waiting Perception_active Vehicle Cause_to_make_noise Make_noise Attempt Attempt_means Choosing
+traintweets.tsv:474748992128303104	1.9	Sounds
+traintweets.tsv:472338905422123008	-2.2	Locale_by_ownership Event Working_on Aggregate Type People
+traintweets.tsv:472342805080449024	1.18	Placing Arriving
+traintweets.tsv:472381312964108290	-3.47	Experiencer_obj Working_on
+traintweets.tsv:472105436825780225	1.97	Temporal_collocation
+traintweets.tsv:475368737772929024	-2.64	Performing_arts Experiencer_obj Make_noise
+traintweets.tsv:473554653552996354	-2.15	Similarity
+traintweets.tsv:472133856548900865	-0.14	Mental_property Mental_property Evidence Reasoning Body_movement Closure
+traintweets.tsv:472090601073033216	0.11	Dimension Measurable_attributes Position_on_a_scale Locale_by_use
+traintweets.tsv:474373686087401472	-2.58	Substance Businesses Required_event Accoutrements Relational_natural_features Buildings Expected_location_of_person
+traintweets.tsv:472347233934127104	-3.39	Perception_active
+traintweets.tsv:473462687834193921	-3.51	Timespan
+traintweets.tsv:473588965459906560	-2.2	Residence Building_subparts
+traintweets.tsv:472467878412029952	1.93	Being_named Labeling Referring_by_name Simple_naming Measure_duration
+traintweets.tsv:475933478434136064	-1.24	Remembering_experience Remembering_information Remembering_to_do
+traintweets.tsv:475841577584455680	-2.14	
+traintweets.tsv:472779392520056832	-1.36	Political_locales Compliance
+traintweets.tsv:472102927042379778	-2.33	Self_motion Success_or_failure
+traintweets.tsv:474621036588060674	-3.32	Roadways
+traintweets.tsv:472403933861015553	-2.64	Familiarity Attaching Aggregate Quantity
+traintweets.tsv:472436154319785984	3.18	Being_named Labeling Referring_by_name Simple_naming People Spelling_and_pronouncing Be_in_control
+traintweets.tsv:473918659069349888	-2.2	Trial Roadways
+traintweets.tsv:473616334207844352	3.25	Discussion Terrorism Causation Sending
+traintweets.tsv:474100654102024192	-2.52	Degree
+traintweets.tsv:472820980692549632	-2.02	Ranked_expectation Businesses Locale_by_use Being_named Labeling Referring_by_name Simple_naming Clothing_parts Fastener Perception_active Scrutiny Seeking Accoutrements Clothing_parts Fastener Dressing Commerce_sell
+traintweets.tsv:473913163323166720	-2.33	Make_noise
+traintweets.tsv:472138597442023424	3.68	Discussion Arriving Calendric_unit
+traintweets.tsv:474503446117105666	-1.61	Leadership Being_obligated Judgment Judgment_communication Success_or_failure Successful_action Becoming_a_member Kinship People_by_age
+traintweets.tsv:473387753065816064	-3.19	Sign
+traintweets.tsv:473616822366130178	-0.79	Relational_political_locales Body_movement Cause_motion Substance Containers Measure_volume Connecting_architecture
+traintweets.tsv:460848105861443584	-1.61	Communication Statement Text_creation Duration_attribute Dimension Duration_attribute
+traintweets.tsv:474859240134569984	-2.93	Attempt Attempt_means Having_or_lacking_access Being_at_risk Risky_situation Locale_by_use
+traintweets.tsv:472458491861680130	-2.6	Being_awake Perception_active Seeking Ingestion
+traintweets.tsv:474762305113047040	-2.85	Participation
+traintweets.tsv:474705422864355328	-2.58	Desiring Remembering_experience Remembering_information Remembering_to_do
+traintweets.tsv:472222215954792448	-2.49	Linguistic_meaning Vocalizations Aggregate
+traintweets.tsv:475226019989708800	-3.05	Performing_arts Desirability Have_as_requirement Needing Required_event Desirability Expertise Social_interaction_evaluation Usefulness Social_interaction_evaluation
+traintweets.tsv:472094038775316481	-2.5	
+traintweets.tsv:472186186270654464	-3.77	Experiencer_focus
+traintweets.tsv:474604323423260672	-2.33	Perception_active
+traintweets.tsv:472155436079386624	-2.91	People Filling Fluidic_motion Substance Front_for
+traintweets.tsv:472151550409072640	-2.72	Sensation Color People
+traintweets.tsv:474600325563695104	-1.78	Change_of_quantity_of_possession Losing Make_cognitive_connection Contacting
+traintweets.tsv:474500507881713664	-2.33	Vehicle
+traintweets.tsv:473852936570023936	-3.55	Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Accoutrements Roadways Arriving Accuracy Timespan
+traintweets.tsv:474611854472667136	-2.37	Creating People Foreign_or_domestic_country Discussion
+traintweets.tsv:474917555077775360	-2.36	Possession Attention_getting People Bringing Carry_goods
+traintweets.tsv:472370100012855296	1.7	People_by_age Vehicle Communication_manner Communication_manner
+traintweets.tsv:475662491931123712	-2.95	Arriving Calendric_unit Religious_belief
+traintweets.tsv:474547286232801280	-2.22	Importance Leadership Request Leadership
+traintweets.tsv:473512310095765504	-3.39	Ranked_expectation
+traintweets.tsv:473875597970911232	4.27	
+traintweets.tsv:472127175080939520	0.98	People Filling Fluidic_motion Substance Front_for
+traintweets.tsv:472375229109784576	-3.49	Statement Emotion_directed
+traintweets.tsv:472216935590273024	1.7	Emotions_by_stimulus Finish_competition Finish_game Win_prize Calendric_unit Eclipse Surpassing Political_locales Aggregate
+traintweets.tsv:472365186180206592	-2.2	Sign Familiarity Calendric_unit Measure_duration Timespan Activity_resume Rejuvenation
+traintweets.tsv:472230942598103040	-0.27	Buildings
+traintweets.tsv:472410467516706816	-0.99	
+traintweets.tsv:464120096445575168	-0.54	Experiencer_focus Communication Statement Text_creation Desiring Performers People_by_vocation Performers
+traintweets.tsv:474428353936900096	-1.98	Perception_active Performing_arts Assistance Place_weight_on Commitment Observable_body_parts
+traintweets.tsv:472124523803062274	-2.74	Reading
+traintweets.tsv:474401743443214336	-2.1	Existence Questioning Part_ordered_segments Text Cardinal_numbers Part_ordered_segments Text
+traintweets.tsv:472447142167343104	-1.65	Finish_competition Finish_game Win_prize Containers
+traintweets.tsv:474658076851994624	1.9	Hear Perception_experience Justifying
+traintweets.tsv:472123392292691968	-2.87	Sufficiency Statement People_by_vocation
+traintweets.tsv:472116384047316993	-2.51	
+traintweets.tsv:473019682828451841	-2.48	Judgment Judgment_communication People
+traintweets.tsv:473048701301059584	-2.33	Process_end
+traintweets.tsv:472167899147534337	-1.14	Attention Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Mental_property
+traintweets.tsv:472033021499949056	-1.31	Mental_property
+traintweets.tsv:474241192956559360	-2.57	Appearance
+traintweets.tsv:472087243193344001	-2.81	Judgment_direct_address Degree Becoming Calendric_unit Measure_duration Timespan
+traintweets.tsv:475243895883059200	-1.88	
+traintweets.tsv:474242267067084800	-1.78	Perception_experience Body_description_holistic Communication_noise Make_noise Biological_urge Animals
+traintweets.tsv:472205587766595584	-2.5	People Forming_relationships People Communication Statement Text_creation Color People_by_age
+traintweets.tsv:472046593286627328	-1.92	Placing Means Vehicle
+traintweets.tsv:473233103436001280	-2.64	Perception_active Part_orientational People
+traintweets.tsv:472036655931478016	-2.64	Communication Execution
+traintweets.tsv:475406300138856449	-1.5	Experiencer_focus Being_employed Aggregate Military
+traintweets.tsv:475319375613132800	-1.61	Cause_to_perceive
+traintweets.tsv:472083478360883200	-3.77	Perception_active
+traintweets.tsv:472046777664012288	2.05	
+traintweets.tsv:472376546175365121	-2.51	Wagering Change_event_time Proper_reference
+traintweets.tsv:475689339058671616	1.74	Legality Death
+traintweets.tsv:475091851989745664	-3.16	Similarity Existence
+traintweets.tsv:472440520988708864	-2.78	Similarity Killing Judgment_direct_address
+traintweets.tsv:473295967320420352	-1.15	Vehicle Ranked_expectation Cause_motion Moving_in_place Roadways Communication Statement Text_creation People_by_residence Desirability Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Performing_arts
+traintweets.tsv:473583382899982336	-2.03	Perception_active Scrutiny Seeking Observable_body_parts
+traintweets.tsv:474842236396773377	-2.22	Perception_active
+traintweets.tsv:474098107723304960	-3.21	Sounds Spelling_and_pronouncing Simple_name
+traintweets.tsv:472082059473584130	-0.57	Terrorism Statement Intentionally_create Correctness Request
+traintweets.tsv:472214244419575809	-2.28	Certainty Likelihood Calendric_unit Measure_duration Expressing_publicly Facial_expression
+traintweets.tsv:473743066071703552	-3.43	Adorning Filling Mental_property
+traintweets.tsv:472139798820683776	-1.3	Calendric_unit Measure_duration Timespan Buildings
+traintweets.tsv:472234167573684224	-2.06	
+traintweets.tsv:472167381922369536	0	Difficulty Differentiation Medical_conditions
+traintweets.tsv:472162792535896064	2.67	Commerce_sell Aggregate Cardinal_numbers Position_on_a_scale Wealthiness
+traintweets.tsv:474504720698966018	-1.85	Destiny Luck Calendric_unit Measure_duration Timespan
+traintweets.tsv:475005498224566272	-2.63	
+traintweets.tsv:472086293162110976	0.76	Sign Businesses Locale_by_use Vehicle Correctness People_by_origin
+traintweets.tsv:475838091001749504	-3.65	Calendric_unit Measure_duration Timespan
+traintweets.tsv:472095450963509248	1.9	Measure_linear_extent Amounting_to Correctness Attack Information Reveal_secret Statement Correctness Measure_linear_extent
+traintweets.tsv:475783330902724608	-3.36	Ranked_expectation Dressing Becoming_aware Locating Reason Make_noise Sounds Make_noise
+traintweets.tsv:475029096049954816	-0.56	Giving Medical_conditions Research Commerce_buy Intoxicants
+traintweets.tsv:472555225870381056	-2.2	Becoming_aware Locating Mental_property Cause_to_perceive Temporal_collocation
+traintweets.tsv:472574020593139712	1.96	Catastrophe Coming_to_believe Perception_active Evidence
+traintweets.tsv:472258885911609344	-2.19	Position_on_a_scale Wealthiness Degree Topic Being_named Labeling Referring_by_name Simple_naming Existence Locale
+traintweets.tsv:472081785430753281	-0.71	Emotion_directed Performing_arts
+traintweets.tsv:473878080273268737	-0.78	
+traintweets.tsv:473982859238068224	2.29	Being_at_risk Risky_situation Importance Political_locales Request Being_at_risk Leadership
+traintweets.tsv:472175698594250752	-2.19	Type Animals
+traintweets.tsv:472353051416621056	-2.5	
+traintweets.tsv:472374315019956225	-2.37	People Experience_bodily_harm Temporal_collocation Awareness Certainty Manipulate_into_shape Dressing
+traintweets.tsv:474651704584327169	-2.72	Dimension Measurable_attributes
+traintweets.tsv:474185400659894272	-2.52	Desiring Food Body_movement Change_posture
+traintweets.tsv:475560531211059200	-2.57	Statement Text_creation Communication_response Communication_response
+traintweets.tsv:475862879573245952	2.69	Cause_to_start Suasion Subjective_influence Dressing Location_of_light Experience_bodily_harm Point_of_dispute Have_as_requirement Needing Required_event Existence Attention
+traintweets.tsv:475693666678214656	-2.64	Accuracy Weapon Response Adducing Mention
+traintweets.tsv:472458870955470848	-3.41	Finish_competition Finish_game Win_prize Attack Bringing Existence State_continue
+traintweets.tsv:472226439841210368	-0.33	Personal_relationship Ranked_expectation Communication Statement Text_creation Killing Personal_relationship Calendric_unit Measure_duration
+traintweets.tsv:475659372312690688	-2.36	Kinship Being_named Labeling Referring_by_name Simple_naming Certainty Likelihood Religious_belief Calendric_unit Measure_duration Timespan Activity_ongoing Speak_on_topic
+traintweets.tsv:474690455570219008	-2.1	Kinship People_by_age Toxic_substance Clothing Certainty Likelihood Feeling Perception_active Perception_experience Contrition
+traintweets.tsv:475326765535997952	-2	Desirability Custom People Feeling Perception_active Perception_experience
+traintweets.tsv:472161089309138944	2.07	Point_of_dispute Change_of_leadership
+traintweets.tsv:474488738957905920	3.18	Dimension
+traintweets.tsv:475063500713103360	-2.08	Process_stop Sign_agreement Text_creation Direction Arriving
+traintweets.tsv:473003087817621506	-1.92	Categorization Regard Ingredients Substance
+traintweets.tsv:472077808790151168	1.87	Becoming_aware Locating Cause_to_experience Employing Intoxicants Self_motion Ingest_substance
+traintweets.tsv:472063096551669760	-0.32	Text
+traintweets.tsv:472257692904341504	1.31	Working_on Containers Measure_volume Perception_experience
+traintweets.tsv:472464152208740352	-1.4	People Commerce_pay
+traintweets.tsv:472473923142287360	2.29	People Prevarication Reporting Discussion People Being_employed Prevarication Reporting Chatting Statement Talking_into Event_instance Location_in_time Timespan
+traintweets.tsv:472131091508498433	-2.64	Sufficiency Statement People_by_vocation
+traintweets.tsv:472098591625203713	1.43	Perception_experience
+traintweets.tsv:472032588572684288	-2.87	Food Awareness Coming_to_believe Estimating Opinion Emitting Calendric_unit Measure_duration People_by_jurisdiction Holding_off_on Waiting Examination Operational_testing Trying_out
+traintweets.tsv:472137780269948928	-2.19	People_by_origin
+traintweets.tsv:472146075575672833	-1.36	Awareness Categorization Opinion Regard
+traintweets.tsv:472774114164633601	-2.91	Cause_to_make_noise Make_noise
+traintweets.tsv:472065798609973248	-2.52	Chatting Statement Talking_into
+traintweets.tsv:472029299772366848	-0.28	Aggregate Type
+traintweets.tsv:472176448347070464	-2.33	People_by_age Activity_ongoing Cause_to_continue Questioning Questioning Aggregate
+traintweets.tsv:475668713757495296	-2.33	Likelihood Addiction Emotion_directed Leadership Self_motion Facial_expression Observable_body_parts Text Topic
+traintweets.tsv:475022771467337728	-2.63	Type Topic People Differentiation Killing Calendric_unit Awareness Categorization Opinion Regard Attempt Attempt_means Activity_ongoing Cause_to_continue Dead_or_alive
+traintweets.tsv:473169967349653505	-2.61	Performing_arts Leadership Communication Statement Text_creation
+traintweets.tsv:472311873824903168	-3.05	Cause_to_experience Achieving_first
+traintweets.tsv:474195149489053698	-2.64	Ranked_expectation Religious_belief Residence
+traintweets.tsv:473346950654205952	0.77	Ranked_expectation Leadership Beat_opponent Dominate_situation
+traintweets.tsv:472411152081620993	-0.45	Temporal_collocation Change_of_leadership Choosing
+traintweets.tsv:473598870484578306	-2.88	Cause_to_perceive Calendric_unit Dressing Buildings
+traintweets.tsv:473115724697698304	-2.95	Communication Statement Text_creation Color People Mental_property
+traintweets.tsv:474759248644038656	-2.71	Judgment Judgment_communication
+traintweets.tsv:475811743805870080	-1.76	Desirability
+traintweets.tsv:475944502469726208	-3.95	Desiring Political_locales Locale Attack
+traintweets.tsv:473333955983196161	-1.41	Activity_start
+traintweets.tsv:472428317078204416	-2.02	Contacting Political_locales Locale_by_use Desirability
+traintweets.tsv:472912726302289921	-2.85	Performing_arts Activity_ready_state
+traintweets.tsv:460426474588082177	-2.33	Questioning
+traintweets.tsv:472122560378048512	-2.06	Similarity Usefulness
+traintweets.tsv:472069683743825920	0.64	Contacting Degree
+traintweets.tsv:472200725582602241	-3.13	Evoking Memory Remembering_experience Remembering_information Remembering_to_do Color Color Recording
+traintweets.tsv:472372379855753217	-2.15	Weather Event_instance Location_in_time Timespan
+traintweets.tsv:474597564147576832	-2.85	Kinship People_by_age Abusing
+traintweets.tsv:472790703932977152	-1.5	Gizmo System People_by_jurisdiction Coming_up_with
+traintweets.tsv:475853601555091456	-2.05	Activity_ongoing Cause_to_continue
+traintweets.tsv:473884385255903232	-2.95	Ranked_expectation Dressing Awareness Categorization Opinion Regard Calendric_unit
+traintweets.tsv:474062481191469056	-3.13	Body_movement Intentional_traversing Path_shape Traversing Roadways Preventing Using People Cogitation Robbery
+traintweets.tsv:474652112802947072	-0.56	Containers Measure_volume
+traintweets.tsv:472203412986413056	-2.85	Activity_prepare Speak_on_topic Statement Importance Rite State_of_entity Religious_belief Means
+traintweets.tsv:475788459941310464	-1.24	Hear Perception_experience Perception_active Scrutiny Seeking Medical_specialties Becoming_aware Coming_to_believe Perception_active Perception_experience Difficulty
+traintweets.tsv:472966698547834880	-2	People Releasing Cogitation Dimension Measurable_attributes Position_on_a_scale Being_at_risk Endangering Risky_situation Run_risk Cause_motion State_of_entity
+traintweets.tsv:472452451648684034	-2.96	Front_for Direction Calendric_unit
+traintweets.tsv:473132802188525569	-3.44	Representing
+traintweets.tsv:472044490786885632	-0.49	Questioning Point_of_dispute
+traintweets.tsv:472357902234439680	-3.05	Experiencer_obj Behind_the_scenes
+traintweets.tsv:472911019921383424	-2.31	Excreting Perception_active Scrutiny Seeking Being_employed
+traintweets.tsv:474606082212757504	1.31	Ingestion Make_noise
+traintweets.tsv:472412499157860352	0.35	
+traintweets.tsv:472366390054100992	-2.56	Adducing Mention
+traintweets.tsv:472112188937629697	-2.95	Vehicle Buildings Expected_location_of_person Being_employed
+traintweets.tsv:474817316958777344	-3.02	Awareness Categorization Opinion Regard Change_of_leadership Contingency
+traintweets.tsv:472151018050813952	-3.51	Placing Foreign_or_domestic_country Political_locales Text Arriving
+traintweets.tsv:472412950188146688	-2.81	
+traintweets.tsv:472414505930981376	-2.66	Timespan
+traintweets.tsv:472135578583314432	-2.77	Degree Participation
+traintweets.tsv:472081002865917952	3.82	People Change_direction Desirability Expertise Social_interaction_evaluation Usefulness Purpose
+traintweets.tsv:474272678224728065	-2.5	Experiencer_obj Halt Complaining
+traintweets.tsv:472138909540171776	-3.1	Being_named Labeling Referring_by_name Simple_naming Speak_on_topic Quantity Correctness
+traintweets.tsv:475721898202890240	1.75	Ranked_expectation Being_awake Perception_active Seeking People_by_vocation Calendric_unit Measure_duration Timespan Temporal_collocation Being_employed Employing
+traintweets.tsv:472379306664947716	-3.18	Event Eventive_affecting Halt Cause_harm Observable_body_parts
+traintweets.tsv:472118136460693504	-0.86	
+traintweets.tsv:472098155535028224	-2.64	Sufficiency Attaching Mental_property Ranked_expectation Calendric_unit Measure_duration Taking_time Temporal_collocation
+traintweets.tsv:472342927234969601	-0.57	Questioning Cause_change Undergo_change Ingestion Food Substance
+traintweets.tsv:465094665575092224	-2.42	Experiencer_focus Speak_on_topic Statement Desirability
+traintweets.tsv:472964638150119424	-3.16	Type
+traintweets.tsv:474326295761780737	-1.17	Buildings Expected_location_of_person
+traintweets.tsv:472300587619340288	0.98	Temporal_collocation Emotion_active Possibilities Possibilities Temporal_collocation Emotion_active Activity_ongoing Process_continue Event_instance Location_in_time Timespan Cause_impact Cause_motion Impact Self_motion
+traintweets.tsv:474291554882822144	1.43	Certainty Trust Degree Fairness_evaluation
+traintweets.tsv:472267696482967552	-2.81	Ingestion Assistance
+traintweets.tsv:474213133657993216	-1.5	Behind_the_scenes Communication Statement Text_creation Correctness Communication Statement Text_creation Correctness Religious_belief Linguistic_meaning
+traintweets.tsv:472623368135786496	-3.02	Personal_relationship Kinship
+traintweets.tsv:472407888564994048	-3.95	Ranked_expectation Calendric_unit Measure_duration Ingestion Causation Sending
+traintweets.tsv:459728991989923840	-1.61	Quantity Rank People Observable_body_parts Temporal_collocation Being_employed
+traintweets.tsv:474012581321920513	-2.06	Committing_crime People
+traintweets.tsv:474753772603080706	-3.65	Manipulation
+traintweets.tsv:472422805074485248	-2.42	Terrorism Amounting_to Experiencer_focus Make_noise
+traintweets.tsv:474812612027613184	-2.08	Personal_relationship Being_located Change_posture Posture Arriving
+traintweets.tsv:473819368128655360	-1.25	Perception_experience People Cause_impact Cause_motion Impact Self_motion Vehicle Bringing Carry_goods Process_stop Sign
+traintweets.tsv:472138064568283136	-0.58	
+traintweets.tsv:472370115292319744	-2.06	Point_of_dispute Quarreling Scrutiny
+traintweets.tsv:472073540854763520	0.77	Building Manufacturing
+traintweets.tsv:472260122358845441	-3	Ranked_expectation Color
+traintweets.tsv:473227468774866948	1.1	Dressing Wearing Process_end Abounding_with Fullness Wearing
+traintweets.tsv:472477896523911168	-2.2	People Sounds
+traintweets.tsv:474236051423100928	-2.81	
+traintweets.tsv:473938642994339840	-2.87	Reason Correctness
+traintweets.tsv:472404586415026176	-2.19	Electricity Certainty Trust
+traintweets.tsv:472413620039864320	-3.02	Architectural_part Connecting_architecture People_by_age
+traintweets.tsv:472082474445832192	-2.03	Categorization Regard Awareness Categorization Opinion Regard Observable_body_parts Shaped_part
+traintweets.tsv:473229408082202624	-2.87	People Desiring
+traintweets.tsv:472128904292212736	3.68	Calendric_unit Emotions_of_mental_activity Stimulus_focus
+traintweets.tsv:473528446766034944	-2.26	Ranked_expectation Becoming_aware Coming_to_believe Perception_active Perception_experience Causation Cause_to_start Behind_the_scenes Cause_emotion Text
+traintweets.tsv:472057886718562306	1.6	Awareness Categorization Opinion Regard
+traintweets.tsv:472440667118260225	-2.02	Locale_by_use Personal_relationship Likelihood Grooming Hair_configuration Observable_body_parts
+traintweets.tsv:474048291257069568	3.15	Cause_emotion Cause_to_perceive Emotion_directed
+traintweets.tsv:474161147089010688	-2.87	Collaboration Cotheme Aggregate Degree Cause_to_start Talking_into
+traintweets.tsv:472050482962505728	0.63	Motion_directional
+traintweets.tsv:472170894672936962	-2.57	Means Building_subparts Placing Excreting
+traintweets.tsv:473510277468942337	-1.1	Locale Building Manufacturing
+traintweets.tsv:472037215884021761	-2.72	Subordinates_and_superiors Leadership Feigning Prevarication
+traintweets.tsv:473534958750146560	-2.42	Possession Communication Statement Text_creation Certainty Temporal_collocation Communication Statement Text_creation
+traintweets.tsv:472083261729308672	-2.02	Experiencer_focus Dressing Manipulate_into_shape Clothing
+traintweets.tsv:475695664652091393	-3.04	Expectation
+traintweets.tsv:472053483802464257	-1.59	
+traintweets.tsv:472048036513054720	-3.02	Representing
+traintweets.tsv:472116519250718720	-0.58	
+traintweets.tsv:472465452237869056	-2.06	Perception_active Scrutiny Seeking Activity_ongoing Process_continue Observable_body_parts Roadways
+traintweets.tsv:472216907022471169	2.11	Renting_out Time_period_of_action Dressing Mental_property Buildings Expected_location_of_person
+traintweets.tsv:472341937672839169	-2.72	Desiring Experiencer_focus
+traintweets.tsv:473045349045903360	-3.99	Assistance
+traintweets.tsv:472457185830506496	-2.78	Text Arriving
+traintweets.tsv:472135236357083136	-3.43	Commerce_buy Clothing Wearing
+traintweets.tsv:472058312427835392	1.74	Being_awake Perception_active Seeking Communication Statement Text_creation Calendric_unit
+traintweets.tsv:472388316399431680	-2.1	Personal_relationship Ranked_expectation Body_movement Change_posture Clothing Calendric_unit Measure_duration Timespan Clothing
+traintweets.tsv:472133801922285568	-2.06	Locale_by_use Make_possible_to_do
+traintweets.tsv:474313864801419266	-2.3	Awareness Coming_to_believe Estimating Opinion Ranked_expectation
+traintweets.tsv:472221024126500864	-2.63	Attention_getting People Part_orientational
+traintweets.tsv:472074845778636800	-0.05	Awareness Categorization Opinion Regard Ranked_expectation Coincidence Accoutrements Sounds
+traintweets.tsv:472093439593836544	-3.95	Representing Sign
+traintweets.tsv:474227228566646784	-2.85	People
+traintweets.tsv:472029587195445249	-2.08	Experiencer_obj Activity_ongoing Spelling_and_pronouncing Simple_name
+traintweets.tsv:472456187707797504	-2.85	Discussion Discussion Existence
+traintweets.tsv:472359180087484417	-2.08	Being_located Change_posture Posture Architectural_part Aggregate Type Holding_off_on Waiting
+traintweets.tsv:474945967918448640	-2.33	
+traintweets.tsv:472301326102036481	-0.36	Activity_ongoing Process_continue Origin People_by_jurisdiction Locale_by_use
+traintweets.tsv:475453522952343552	-1.85	Awareness Categorization Opinion Regard Perception_active Temporal_collocation
+traintweets.tsv:474599226685816833	-3.47	Ranked_expectation Perception_experience Excreting Noise_makers
+traintweets.tsv:472048852913389568	1.97	Temporal_collocation Calendric_unit Calendric_unit Measure_duration
+traintweets.tsv:472403943352700929	-2.22	
+traintweets.tsv:472269545470976000	-3.04	Prohibiting Foreign_or_domestic_country Political_locales Artifact
+traintweets.tsv:473394726746722304	-1.36	Dressing People_by_vocation People_by_vocation Direction
+traintweets.tsv:472207655650725889	-1.88	Fear Duration_attribute Simple_name
+traintweets.tsv:472171054274580480	-2.73	Law Cardinal_numbers
+traintweets.tsv:472371645102161920	-2.13	Experiencer_focus Being_strong Exertive_force Surviving Exertive_force
+traintweets.tsv:472138778229096448	-1.66	Perception_active People_by_vocation Activity_ongoing Process_continue Judgment_communication Similarity
+traintweets.tsv:472383757484167168	-1.65	Clothing Time_vector
+traintweets.tsv:472662228010033152	-2.31	Avoiding Departing Elusive_goal Escaping Evading Losing_track_of_perceiver Calendric_unit Measure_duration Relative_time Time_vector Dressing
+traintweets.tsv:473220216445763584	-3.77	Communication Statement Text_creation Dressing Change_of_leadership Choosing
+traintweets.tsv:474997360733741056	-1.5	Perception_experience Locale_by_use Businesses
+traintweets.tsv:475158423739187200	-4.5	Make_noise
+traintweets.tsv:472037269109764097	0.28	Awareness Categorization Opinion Regard Becoming_aware Make_noise
+traintweets.tsv:472778649700425728	-2.07	Perception_experience
+traintweets.tsv:472069293644185600	-1.25	Judgment_direct_address Resolve_problem
+traintweets.tsv:474892751478067201	-2.2	Experiencer_focus
+traintweets.tsv:475564320311349248	-3.18	Political_locales Activity_start Process_start Setting_out Reading
+traintweets.tsv:474214939293675521	-2.7	Cotheme Self_motion
+traintweets.tsv:472222297508425729	-2.3	Origin Manipulation
+traintweets.tsv:472801249637593088	-1.54	Being_located Change_posture Posture Locale_by_use Political_locales People Ranked_expectation Buildings
+traintweets.tsv:474202361846857728	-2.49	Measure_linear_extent Calendric_unit Measure_duration Means Vehicle
+traintweets.tsv:472346341100630017	-2.86	Perception_active
+traintweets.tsv:472225661877510146	0.56	Sex Experiencer_obj Awareness Certainty Certainty Trust Simple_name Communication Statement Text_creation
+traintweets.tsv:472058153497268224	-3.49	Clothing Awareness Remembering_experience Remembering_information Remembering_to_do Usefulness Clothing
+traintweets.tsv:472379614728585217	-2	Temporal_collocation Make_acquaintance Relative_time Experiencer_focus
+traintweets.tsv:474760558974369792	-2.52	
+traintweets.tsv:472379947030704128	-3.17	Communication Statement Text_creation Candidness
+traintweets.tsv:473866081720082432	-2.53	Attempt Attempt_means Type Calendric_unit Measure_duration Color Killing
+traintweets.tsv:474031966417739777	-3.49	Reporting Statement Cognitive_connection Sensation
+traintweets.tsv:472800970687008770	1.7	
+traintweets.tsv:474504122029199361	-2.15	Leadership Being_obligated Judgment Judgment_communication Success_or_failure Successful_action Becoming_a_member Kinship People_by_age
+traintweets.tsv:474667382221586433	-2.44	Observable_body_parts Medical_conditions Awareness
+traintweets.tsv:473969687986831361	-1.8	Perception_experience Time_vector
+traintweets.tsv:473688282866270208	-2.33	Have_as_requirement Needing Required_event Communication Statement Text_creation Vehicle Temporal_collocation Event_instance Location_in_time Timespan Participation
+traintweets.tsv:475957966386917376	-0.57	
+traintweets.tsv:473621194084610048	-2.05	Finish_competition Finish_game Win_prize Cause_to_perceive Social_event
+traintweets.tsv:472456917785513985	3.44	Examination Operational_testing Trying_out
+traintweets.tsv:473756473462251520	-2.64	Measure_volume Awareness Certainty Clothing
+traintweets.tsv:472232957017464832	-2.06	Ranked_expectation Coincidence People Perception_experience Perception_active Scrutiny Seeking Dressing Response
+traintweets.tsv:472084194752204800	1.17	Evidence Telling
+traintweets.tsv:472085128899198976	-2.37	Amalgamation Commerce_buy Aggregate Organization Perception_body
+traintweets.tsv:473311921240678401	-2.33	Calendric_unit Measure_duration Cause_change_of_position_on_a_scale Cause_to_be_included Commutative_process
+traintweets.tsv:473559931501547521	-1.17	Coming_to_believe
+traintweets.tsv:472079850648256512	2.34	
+traintweets.tsv:473899061809258496	-3.36	Temporal_collocation Food People Have_as_requirement Needing Required_event Medical_conditions Ranked_expectation Make_noise
+traintweets.tsv:475630378041241600	-3.02	Color People_by_age Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:472394535339696128	0.91	Ingest_substance Aggregate Type Response Awareness Certainty Ingest_substance Aggregate Organization
+traintweets.tsv:473845081405792256	-2.51	Communication Statement Text_creation Experiencer_obj
+traintweets.tsv:472370157265096705	-2.85	Choosing Deciding Eventive_cognizer_affecting Reporting Statement Perception_active Scrutiny Seeking Medical_conditions
+traintweets.tsv:472407438646595584	-0.96	Perception_active Scrutiny Seeking Event
+traintweets.tsv:472423981866565632	2.29	People Awareness Certainty Frequency Awareness Certainty People Dressing Awareness Certainty
+traintweets.tsv:475287392665214976	-1.51	Evidence Reasoning
+traintweets.tsv:474873287856492544	-2.12	Certainty Trust Performing_arts Eclipse Surpassing State_of_entity Participation
+traintweets.tsv:474197200801906689	-3	Typicality
+traintweets.tsv:472163732219760641	-1.66	
+traintweets.tsv:472313003090907136	-2.87	Awareness Certainty Achieving_first Event Awareness Destroying Event
+traintweets.tsv:473990135940268032	2.43	
+traintweets.tsv:472172008617541632	-2.87	Spelling_and_pronouncing Simple_name
+traintweets.tsv:475995673796833280	0.18	Attempt_suasion
+traintweets.tsv:472190172088373248	1.74	Text
+traintweets.tsv:473580905433280513	-2.66	Capability Locale
+traintweets.tsv:472241209004818433	-2.49	Cause_harm Cutting Awareness Certainty
+traintweets.tsv:473586637432033280	-2.06	Direction Dressing Awareness Categorization Opinion Regard People Awareness Grasp Law
+traintweets.tsv:472463585940344832	3.3	Being_named Labeling Referring_by_name Simple_naming Food
+traintweets.tsv:474146661493911552	-2.53	Make_noise Protecting
+traintweets.tsv:474653043955625984	-2.88	Amounting_to Project Purpose Ranked_expectation Have_as_requirement Needing Required_event Frequency Aggregate Type
+traintweets.tsv:472404037187280896	-2	People Remembering_experience Remembering_information Remembering_to_do Kinship People_by_age Residence
+traintweets.tsv:472354876802887681	-1.35	Ranked_expectation Body_movement Change_posture Text Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:474479965392879616	-1.16	Being_awake Perception_active Seeking Natural_features Calendric_unit Adopt_selection Awareness Justifying
+traintweets.tsv:472340961763147777	-2.86	Dressing Attempt_suasion Experiencer_obj Bringing Operate_vehicle
+traintweets.tsv:473498544285159424	-1.85	Awareness Certainty
+traintweets.tsv:473432921412362241	-2.87	Personal_relationship Awareness Categorization Opinion Regard Desirability
+traintweets.tsv:473155143991824385	-2.58	Ranked_expectation Communication Statement Text_creation Emotion_directed Kinship People_by_age Kinship Locale_by_use
+traintweets.tsv:474771697279983616	-3.04	People Justifying Calendric_unit Accuracy People Cause_harm
+traintweets.tsv:472161094849396737	0.18	Law
+traintweets.tsv:475718901708648448	-2.63	Communication Statement Text_creation Experiencer_focus Cause_to_perceive
+traintweets.tsv:472438616820428800	-0.45	Cause_harm Cutting Military Calendric_unit Measure_duration Timespan Change_of_leadership Contingency
+traintweets.tsv:472052337687945216	-2	Communication Statement Text_creation Becoming_aware Locating Difficulty Kinship People_by_age Statement Certainty Trust Experiencer_focus Dead_or_alive
+traintweets.tsv:472471998640451585	-1.98	Working_on Foreign_or_domestic_country Businesses
+traintweets.tsv:474155411919351808	-1.31	Bringing Operate_vehicle Unattributed_information Age Being_employed
+traintweets.tsv:472064144317759488	-2.96	Calendric_unit
+traintweets.tsv:473627256070230016	-3.16	Commerce_buy
+traintweets.tsv:475323653736108032	-0.17	Questioning Employing Being_named Labeling Referring_by_name Simple_naming Businesses Locale_by_use Evidence Verification Communication Statement Text_creation Difficulty
+traintweets.tsv:472428705231675392	-2	Ranked_expectation Seeking Behind_the_scenes
+traintweets.tsv:473529746782191618	-2.57	Statement
+traintweets.tsv:472462014111969280	-3.14	Event
+traintweets.tsv:473251167812583424	-1.29	Accuracy Dead_or_alive Roadways
+traintweets.tsv:472144153204502529	-1.1	Chatting Statement Talking_into Chatting Statement Talking_into Suitability Being_employed
+traintweets.tsv:473480562209226752	-3.55	Earnings_and_losses Political_locales
+traintweets.tsv:475991577543069696	3.44	Attempt_suasion Difficulty Possibility Commerce_buy People_by_age
+traintweets.tsv:472200231380353024	-2.72	Dressing Awareness Certainty Calendric_unit Biological_urge
+traintweets.tsv:472079138644566017	-1.31	
+traintweets.tsv:472082769775190016	0.15	Perception_active
+traintweets.tsv:472106419802492928	-1.88	
+traintweets.tsv:475390334675857408	-1.29	
+traintweets.tsv:472075982787313664	1.42	Becoming_aware Locating Event_instance Location_in_time Timespan Being_awake Perception_active Seeking Intentionally_act
+traintweets.tsv:472061474249379841	-3.09	Temporal_collocation Processing_materials Hair_configuration Observable_body_parts Dressing Hair_configuration Observable_body_parts
+traintweets.tsv:472577469803794433	-2.19	Food Position_on_a_scale Wealthiness People Wealthiness People
+traintweets.tsv:472061811253338112	-0.25	People Experiencer_focus People
+traintweets.tsv:472419588534460416	1.51	Being_at_risk
+traintweets.tsv:472287550724268032	-1.92	Calendric_unit
+traintweets.tsv:474756314460332032	-2.81	
+traintweets.tsv:472704202083667968	3.38	Education_teaching Calendric_unit Measure_duration Timespan
+traintweets.tsv:472035453634641920	-0.96	
+traintweets.tsv:472401674532048896	-1.81	Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:474918214397214720	-1.17	People Activity_ongoing Process_continue Buildings
+traintweets.tsv:472345543705112577	-3.04	Information Request Remembering_experience Remembering_information Remembering_to_do
+traintweets.tsv:472199017858748416	-2.2	Intentionally_act Education_teaching Clothing_parts Fastener
+traintweets.tsv:463482725450522624	-3.02	Perception_experience Education_teaching Seeking Seeking_to_achieve
+traintweets.tsv:472151917117050880	-1.15	Timespan
+traintweets.tsv:472078325687390208	-1.24	Possession
+traintweets.tsv:472932175617458177	-1.3	Clothing
+traintweets.tsv:475378314400382982	-2.64	Awareness Categorization Opinion Regard Cause_fluidic_motion Filling Desiring
+traintweets.tsv:472071439764316162	1.74	Make_noise Desirability Temporal_collocation Expertise
+traintweets.tsv:460174044575186946	-2.96	Accuracy Desirability Desirability Judgment
+traintweets.tsv:473237893201154048	-2.33	Kinship Have_as_requirement Needing Required_event Activity_stop Process_stop Cotheme Self_motion Intoxicants
+traintweets.tsv:472455738770862081	-0.14	
+traintweets.tsv:472651084310519808	-2.64	
+traintweets.tsv:475661867680272384	-2.3	Arriving Calendric_unit Religious_belief
+traintweets.tsv:472441382980681728	-2.2	Arriving Cause_harm Communication_manner Statement Text_creation
+traintweets.tsv:475801007495348224	-2.06	Foreign_or_domestic_country Political_locales Discussion Calendric_unit
+traintweets.tsv:472873442145234944	-3.58	Correctness Suitability Chatting Statement Talking_into
+traintweets.tsv:475471099833364480	-1.54	
+traintweets.tsv:472171525140140032	-2.08	Experiencer_focus Increment Religious_belief Existence Dressing Certainty Trust Dressing Discussion
+traintweets.tsv:472044749054935043	-1.4	Custom Legality Employing
+traintweets.tsv:474860373552553985	-2.06	Cause_impact Exercising Name_conferral Activity_ongoing Cause_to_continue Temporal_collocation
+traintweets.tsv:472068224709058560	-1.5	Color Usefulness Part_ordered_segments Text
+traintweets.tsv:472185837736583168	-2.36	Accoutrements Roadways Vehicle Reading Observable_body_parts Roadways
+traintweets.tsv:474630129931386880	-2.3	Residence Political_locales
+traintweets.tsv:472818846814834688	-2.58	Information
+traintweets.tsv:473479615902937088	-2.06	Choosing Education_teaching Ranked_expectation Commerce_pay Money Timespan
+traintweets.tsv:472078301251796992	-1.61	Required_event Part_ordered_segments Text
+traintweets.tsv:474745126204764160	-2.85	Predicament
+traintweets.tsv:465117661094215680	-1.55	Experiencer_focus Import_export Importing
+traintweets.tsv:472385645152067584	-3.13	Leadership
+traintweets.tsv:472090287796666369	-3.18	Perception_experience
+traintweets.tsv:472479598455062528	-2.75	Taking_time Calendric_unit Measure_duration Timespan Measurable_attributes Building_subparts
+traintweets.tsv:472841453610491904	-2.66	Exhaust_resource Buildings Participation
+traintweets.tsv:472086891786145792	-2.22	
+traintweets.tsv:474853864534212608	2.34	Vehicle Ranked_expectation Traversing People Working_on Perception_active Scrutiny Seeking Death Perception_active
+traintweets.tsv:474177161717628928	-2.63	Project Purpose Execution
+traintweets.tsv:472133877532590080	-1.17	Natural_features Buildings
+traintweets.tsv:475761883937775620	-2	Earnings_and_losses Roadways Roadways
+traintweets.tsv:472385649341771776	-2.2	Personal_relationship Ranked_expectation Body_movement Change_posture Clothing Calendric_unit Measure_duration Timespan Clothing
+traintweets.tsv:472113022753079297	-2.19	Judgment_direct_address
+traintweets.tsv:472175426400694272	-2.14	Spelling_and_pronouncing Simple_name
+traintweets.tsv:474884118900379648	-1.29	Text Cause_motion Moving_in_place Statement Text_creation
+traintweets.tsv:472875551598723073	-2.88	
+traintweets.tsv:472278822788665344	-0.36	Categorization Regard Ranked_expectation Using Event_instance Location_in_time Timespan Being_employed Operating_a_system Success_or_failure Successful_action Calendric_unit Measure_duration
+traintweets.tsv:474933230617894912	-3.51	Organization Discussion Be_in_agreement_on_assessment Make_agreement_on_action Natural_features
+traintweets.tsv:472374368991842305	-2.72	Questioning Timespan Request Taking_time Event_instance
+traintweets.tsv:473898515505352705	0.91	Extreme_value Relational_quantity People Social_interaction_evaluation Chatting Statement Talking_into Completeness
+traintweets.tsv:474338579700015104	-2.44	People Similarity
+traintweets.tsv:472221938329194497	-1.78	Point_of_dispute
+traintweets.tsv:473954481764179968	-1.59	People Sex Mental_property
+traintweets.tsv:472863810664288256	-3.51	Being_employed Employing
+traintweets.tsv:472446050146738176	-1.36	Perception_active Scrutiny Seeking Becoming_aware Locating Losing Ranked_expectation Becoming_aware Locating
+traintweets.tsv:472139693992443904	-2.37	Becoming_aware Locating Losing Having_or_lacking_access Choosing Research Scrutiny
+traintweets.tsv:472303478501814272	-2.15	Be_in_agreement_on_assessment Make_agreement_on_action
+traintweets.tsv:475265597379710976	-2.85	Judgment_communication Judgment_direct_address Possession Exercising
+traintweets.tsv:472097278644060160	-2.77	Desirability Ranked_expectation
+traintweets.tsv:472370466116468736	-2.74	Color Calendric_unit Communication Statement Text_creation Familiarity Desirability Dressing Intoxicants
+traintweets.tsv:472165533585260544	-1.14	Judgment_direct_address Commerce_sell
+traintweets.tsv:474540194683555841	-3.18	Commerce_sell
+traintweets.tsv:472130545720524800	-2.08	People Capacity Communication Statement Text_creation
+traintweets.tsv:472216098692026368	-3.45	
+traintweets.tsv:474290006958161920	-1.24	Hear Perception_experience Vehicle Communication Statement Text_creation Finish_competition Finish_game Win_prize Hear Perception_experience People Communication_noise Make_noise
+traintweets.tsv:472234218555469824	-3.51	Judgment_direct_address Aggregate Type Calendric_unit Communication Statement Text_creation Aggregate Type
+traintweets.tsv:474219875704258560	-2.7	Awareness Certainty Sensation Sounds Presence
+traintweets.tsv:472777544274427904	-2.08	People Examination Operational_testing Trying_out Evidence Telling Color People
+traintweets.tsv:472110085402292225	-2.42	Ranked_expectation Being_named Labeling Referring_by_name Simple_naming Completeness Indigenous_origin
+traintweets.tsv:474268628653998080	-1.66	Being_named Labeling Referring_by_name Simple_naming Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:472101817246306304	-2	Evidence Telling Dressing
+traintweets.tsv:473529152633450496	-1.15	Perception_active Scrutiny Seeking Desirability Expertise Social_interaction_evaluation Usefulness Perception_active Scrutiny Seeking
+traintweets.tsv:472906083439501314	-3.27	People Achieving_first Coming_up_with Judgment_communication Performing_arts
+traintweets.tsv:473837688768835584	-1.5	People_by_vocation People_along_political_spectrum Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Quitting_a_place
+traintweets.tsv:473556929202376704	-0.28	Chatting
+traintweets.tsv:473997412877357056	-3.18	Delivery People Vehicle Ingestion Appearance Similarity Similarity
+traintweets.tsv:472087938822438912	2.29	Calendric_unit
+traintweets.tsv:475775085739929600	-3.13	Clothing
+traintweets.tsv:472867744850128897	-2.52	Religious_belief Calendric_unit Temporal_collocation Timespan Desiring Locale_by_use
+traintweets.tsv:472404801415036928	-3.09	Electricity Certainty Trust
+traintweets.tsv:473792552282644480	-0.05	Ranked_expectation Cause_to_fragment Damaging Removing
+traintweets.tsv:472385364913438721	-1.31	Certainty Likelihood Bringing Operate_vehicle
+traintweets.tsv:472048087461289984	-2.5	
+traintweets.tsv:472593635716767744	-2.37	Self_motion Food Halt Self_motion Traversing
+traintweets.tsv:473015663586725888	-2.38	Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Point_of_dispute Judgment Judgment_communication
+traintweets.tsv:472943634737004544	-3.36	Information
+traintweets.tsv:472799176125075456	-1.51	People Remembering_experience Remembering_information Remembering_to_do Desirability Expertise Social_interaction_evaluation Usefulness Clothing Desirability
+traintweets.tsv:475966694804836353	-3.16	Similarity Kinship People_by_age Dressing Leadership
+traintweets.tsv:472269272270766080	-3.02	Prohibiting Foreign_or_domestic_country Political_locales Artifact
+traintweets.tsv:472407408761790465	1.81	Experiencer_focus Fear Examination Operational_testing Trying_out Familiarity Building Manufacturing Building Manufacturing
+traintweets.tsv:474065375198334976	-3.49	Examination Communication Statement Text_creation Attempt_suasion
+traintweets.tsv:472335135581290496	-2.33	Degree Sign_agreement Text_creation Calendric_unit
+traintweets.tsv:475428494319812608	-2.36	Working_on Being_employed Birth
+traintweets.tsv:472061237900361728	-0.76	Performing_arts Undergoing People Feeling
+traintweets.tsv:474554348253757440	-2.5	Medical_conditions Businesses Locale_by_use Subordinates_and_superiors Ingestion Speed Taking_time Food
+traintweets.tsv:472400292072677376	-3.16	Linguistic_meaning
+traintweets.tsv:472374423186464768	1.94	Personal_relationship Working_on Businesses Ranked_expectation Activity_finish Expertise Desiring Arriving
+traintweets.tsv:473492977453920257	-2.81	Degree Be_in_agreement_on_assessment Make_agreement_on_action Hear Perception_experience Statement
+traintweets.tsv:472392579620040704	-0.76	People Holding_off_on Waiting Mental_property
+traintweets.tsv:472408888370028544	-2.31	Receiving Request Causation Sending
+traintweets.tsv:472090884025384960	-0.22	Containers Perception_active Scrutiny Seeking Simple_name
+traintweets.tsv:472273189356453888	3.15	Position_on_a_scale Wealthiness Degree Existence Locale
+traintweets.tsv:472253686522339328	-3.02	Aggregate Quantity Communication Statement Text_creation
+traintweets.tsv:472411305555406848	-2.64	People Cardinal_numbers
+traintweets.tsv:473343605625864192	-1.02	Awareness Categorization Opinion Regard Temporal_collocation Choosing Deciding Eventive_cognizer_affecting Required_event Departing Residence Mental_property
+traintweets.tsv:472248211801780225	-3.49	Statement Awareness Grasp
+traintweets.tsv:473348017265709056	-2.96	Familiarity
+traintweets.tsv:472759414894886912	-2.66	Familiarity Substance Political_locales
+traintweets.tsv:472475094594232320	-2.52	Dressing Event_instance Location_in_time Timespan People Desiring People Ranked_expectation Desiring Aesthetics Mental_property People
+traintweets.tsv:472223776135208960	0.64	People Event_instance Location_in_time Timespan
+traintweets.tsv:472366050063810560	-2.57	Direction
+traintweets.tsv:475381913562009602	-2.78	Being_employed Social_interaction_evaluation Text Cause_to_be_included Inclusion
+traintweets.tsv:472420105255944192	-3	Create_physical_artwork Desirability Examination Operational_testing Trying_out Removing
+traintweets.tsv:475475072459608064	2.89	Event_instance Location_in_time Timespan Cause_change
+traintweets.tsv:474850779736850432	-2.31	Perception_active Scrutiny Seeking
+traintweets.tsv:472214349138784256	-2.76	Perception_active
+traintweets.tsv:474471207363170304	-2.5	Locale_by_use Cause_to_make_progress Progress Residence Degree Buildings
+traintweets.tsv:472346025068613632	-3.99	Protecting Relative_time
+traintweets.tsv:472187436635013120	-2.15	Dressing Have_as_requirement Needing Required_event Kinship Gathering_up Questioning Personal_relationship
+traintweets.tsv:472465472995086336	-2.63	Containers
+traintweets.tsv:475299180064153600	-1.81	Means Vehicle Request Religious_belief Importance People People
+traintweets.tsv:475348942650359808	-0.56	Terrorism Damaging Subversion
+traintweets.tsv:472095537265934336	-2.3	
+traintweets.tsv:474752567876915201	-1.86	Placing Connecting_architecture Connecting_architecture Body_movement Self_motion
+traintweets.tsv:474928949844144128	-2	Perception_experience People Clothing
+traintweets.tsv:472883507875049472	-2.86	Experiencer_obj
+traintweets.tsv:472813184496054274	-2.13	Taking_time Means
+traintweets.tsv:474666577133318144	-2.61	Being_named Labeling Referring_by_name Simple_naming Text
+traintweets.tsv:472430671697559552	3.41	Organization Personal_relationship Attention_getting Personal_relationship Judgment_direct_address
+traintweets.tsv:475232337098055680	1.74	
+traintweets.tsv:475018108894478336	-2.44	People Differentiation Arriving
+traintweets.tsv:472127306702790658	-2	Commerce_pay Money Part_orientational Observable_body_parts Part_orientational Personal_relationship Residence
+traintweets.tsv:474586449954619392	-0.86	Personal_relationship Awareness Categorization Opinion Regard Kinship
+traintweets.tsv:472353278207213568	-2.3	Sounds Degree Make_noise
+traintweets.tsv:474710278966222850	-2.57	
+traintweets.tsv:472136289555611648	-2.61	Sex
+traintweets.tsv:472139453017116672	-2.31	Calendric_unit Measure_duration Timespan Buildings
+traintweets.tsv:472218307903234048	-1	Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change Openness Prison Buildings
+traintweets.tsv:472141154755293185	-1.92	Discussion Arriving Calendric_unit
+traintweets.tsv:474272317426507776	-1.5	Commerce_buy Part_ordered_segments Text Predicament Food
+traintweets.tsv:472625612457132033	-1.25	People_by_age Observable_body_parts Part_orientational Activity_ongoing Process_continue
+traintweets.tsv:472360529907175424	-3.18	Food Animals Ingestion
+traintweets.tsv:472453634844676096	-3.39	Trial People
+traintweets.tsv:474924651559141376	-2.49	Measure_volume Expressing_publicly Facial_expression Arriving Expressing_publicly Facial_expression
+traintweets.tsv:472463723316404225	3.05	Change_event_time Existence State_continue
+traintweets.tsv:472864715899949056	3.39	Feeling Perception_active Perception_experience Being_strong Exertive_force Possession
+traintweets.tsv:472062156670652417	-3.51	Communication Statement Text_creation
+traintweets.tsv:474564730841858049	-1.65	Calendric_unit Leadership Sleep Cardinal_numbers
+traintweets.tsv:472092501768024064	2.43	Businesses Color Artifact Existence Emotion_directed
+traintweets.tsv:475536627830648832	-2.31	Ranked_expectation Finish_competition Finish_game Win_prize Evidence Reasoning
+traintweets.tsv:472214307019554817	-2	Performers People Candidness
+traintweets.tsv:475810897793781761	-2.37	Residence Attempt Attempt_means
+traintweets.tsv:472088073178972160	-2.03	Speak_on_topic Intoxicants
+traintweets.tsv:472447964133462016	-2.98	Emotion_directed Desirability Experiencer_obj Expressing_publicly Facial_expression Cause_to_be_sharp Experiencer_focus Others_situation_as_stimulus
+traintweets.tsv:472370644064411648	-1.88	Eventive_cognizer_affecting Suasion Intentionally_act Correctness
+traintweets.tsv:472272288453111808	-3.49	Activity_stop Commitment Becoming_separated Separating Political_locales
+traintweets.tsv:472228700608417792	-0.61	Organization Cardinal_numbers
+traintweets.tsv:465221923199549440	-2.38	Experiencer_focus Bringing Operate_vehicle
+traintweets.tsv:472295837482364928	-3.04	Cardinal_numbers Personal_relationship Locale Event_instance Location_in_time Timespan Text
+traintweets.tsv:472225172921925632	-2.95	Desiring People Evidence Telling Desiring Candidness
+traintweets.tsv:472355026049191936	-2.33	Temporal_collocation Assessing Examination
+traintweets.tsv:472440612105379841	-2.19	People
+traintweets.tsv:473003997805412352	-0.06	Sex People Being_named Labeling Referring_by_name Simple_naming Medical_professionals Desiring
+traintweets.tsv:472165576979546112	-2.81	Commerce_sell Commerce_sell Experiencer_focus Filling
+traintweets.tsv:472438134240993282	-0.56	Familiarity Buildings Importance
+traintweets.tsv:474309299544805379	-3	Evidence Reveal_secret Becoming_aware Measure_linear_extent
+traintweets.tsv:475993826281418752	-2.64	Locale Clothing Perception_active Sensation
+traintweets.tsv:474214715053203456	-1.29	Death Documents
+traintweets.tsv:472139539579142145	-2.52	Chatting Statement Talking_into Appearance
+traintweets.tsv:472067171632574464	1	Experiencer_focus Placing Buildings Text Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change
+traintweets.tsv:474984866212503552	1.54	Location_in_time Timespan
+traintweets.tsv:474082172669014016	-2.31	Expectation Opinion Identicality Similarity
+traintweets.tsv:472278157643358208	-2.64	Statement Awareness Cogitation Cause_to_start Experiencer_obj Being_awake Perception_active Seeking
+traintweets.tsv:475015538989887488	-1.4	Feeling Perception_active Perception_experience People Dead_or_alive Feeling Perception_active Perception_experience People Dead_or_alive
+traintweets.tsv:472584346046459904	-2.31	
+traintweets.tsv:472050306654937089	1.75	People Desiring Desirability Expertise Social_interaction_evaluation Usefulness People Desirability People_by_age Placing Communication Statement Text_creation People
+traintweets.tsv:472408353067372545	-1.5	Experiencer_focus Fear Examination Operational_testing Trying_out Familiarity Building Manufacturing Building Manufacturing
+traintweets.tsv:473460739152556033	-2.6	Perception_experience
+traintweets.tsv:472563731512430592	-1.51	Natural_features Part_orientational Relational_natural_features Weather
+traintweets.tsv:472305170865328128	-2.13	
+traintweets.tsv:472071300198842368	1.1	Degree Questioning
+traintweets.tsv:473166485876006912	-2.1	Buildings Relational_quantity Buildings
+traintweets.tsv:475803301792198656	-3.99	
+traintweets.tsv:472029839139287041	-1.02	Being_at_risk Discussion
+traintweets.tsv:474332209210339328	-3.1	Topic Social_interaction_evaluation
+traintweets.tsv:473549516709191680	-1.86	Calendric_unit Measure_duration Timespan Calendric_unit Measure_duration Timespan Calendric_unit Measure_duration Timespan
+traintweets.tsv:474091709891366912	-2.58	Becoming_aware Coming_to_believe Perception_active Perception_experience Locale Secrecy_status
+traintweets.tsv:473898065649500160	-1.98	
+traintweets.tsv:472053810568110080	-2.3	Temporal_collocation Kinship People_by_age Becoming People_by_origin
+traintweets.tsv:472268551945211904	0.38	Being_named Labeling Referring_by_name Simple_naming People Weapon
+traintweets.tsv:472053746294591488	2.74	People Change_direction Desirability Expertise Social_interaction_evaluation Usefulness Purpose
+traintweets.tsv:472282626469138432	2.89	People Commerce_pay Food
+traintweets.tsv:473497849871597569	-1.08	Communication Statement Text_creation Direction History Individual_history Out_of_existence Text
+traintweets.tsv:472526054519607297	-2.95	Perception_experience Temporal_collocation Communication Statement Text_creation Activity_ongoing Process_continue Observable_body_parts Roadways
+traintweets.tsv:474919786019704832	-2.57	Have_as_requirement Needing Required_event Activity_ongoing Cause_to_continue Education_teaching Commerce_pay Cure Medical_specialties Have_as_requirement Needing Required_event Education_teaching
+traintweets.tsv:475990204923518976	-1.17	Arriving Temporal_collocation Working_on
+traintweets.tsv:472314177013690368	-0.46	Desirability Expertise Social_interaction_evaluation Usefulness
+traintweets.tsv:475759999730208769	-1.41	
+traintweets.tsv:472071387327123456	0.38	Becoming_aware Locating
+traintweets.tsv:475468569007108096	-2.87	Event_instance Location_in_time Timespan Activity_resume Rejuvenation Being_obligated Documents Becoming_aware Locating Correctness Correctness Suitability Commerce_pay Familiarity
+traintweets.tsv:475689196275773442	-1.35	
+traintweets.tsv:472439166882832384	-1.05	Part_piece Statement Text_creation Being_at_risk
+traintweets.tsv:472261406419476480	-3.02	Position_on_a_scale Wealthiness Degree Topic Being_named Labeling Referring_by_name Simple_naming Existence Locale
+traintweets.tsv:473973102326460417	-0.08	Perception_active Scrutiny Seeking Have_associated
+traintweets.tsv:472363758560751616	-0.77	
+traintweets.tsv:472422250185232386	-0.22	Desiring Activity_start Aggregate Type Being_named Labeling Referring_by_name Simple_naming Wealthiness
+traintweets.tsv:474757281943265280	-2.81	Color Finish_competition Finish_game Win_prize
+traintweets.tsv:474540289982730240	-2	Kinship People_by_age Sleep
+traintweets.tsv:472146200104562689	-2.31	Kinship Experiencer_focus
+traintweets.tsv:474587495028768768	3.81	Range Expertise
+traintweets.tsv:472202313810317312	-1.25	Cogitation Measure_duration Reading
+traintweets.tsv:472423383964319744	-2.57	Part_orientational Expensiveness Calendric_unit Being_in_effect Causation Objective_influence
+traintweets.tsv:475343620950593536	-1.24	Direction Attempt_suasion Kinship People_by_age Desiring
+traintweets.tsv:472360889673199616	1.83	Aggregate Emotion_directed
+traintweets.tsv:472389840492036096	-2.64	Required_event Communication
+traintweets.tsv:475355155919941632	-2.4	Being_awake Perception_active Seeking Avoiding Political_locales
+traintweets.tsv:473938400152522752	-2.58	Cause_impact Cause_motion Impact Self_motion Cardinal_numbers Quantity Manipulate_into_doing
+traintweets.tsv:472367098128506880	1.31	
+traintweets.tsv:472244704805797888	-1.25	Feeling Awareness Grasp Communication Statement Text_creation
+traintweets.tsv:472193508623663104	2.11	
+traintweets.tsv:473297379698159617	0.18	People People Awareness Cogitation
+traintweets.tsv:474782236001071104	-1.98	
+traintweets.tsv:475349134073794560	-0.9	People Desiring Ambient_temperature Subjective_temperature Temperature People Motion_directional Expressing_publicly Facial_expression Perception_active Scrutiny Seeking Expressing_publicly Facial_expression
+traintweets.tsv:472468661366579200	-2.55	Cardinal_numbers Clothing Personal_relationship Kinship People_by_age Judgment_direct_address Religious_belief Cure Recovery Medical_conditions
+traintweets.tsv:474689015392661504	-3.47	Appeal Calendric_unit Measure_duration Contacting
+traintweets.tsv:472843950131519488	-3.47	Observable_body_parts
+traintweets.tsv:472221819429457920	-2.52	Speak_on_topic Reading
+traintweets.tsv:475735214149222400	-1.5	Being_at_risk Risky_situation Eventive_cognizer_affecting Suasion Openness Bringing Carry_goods Being_at_risk Risky_situation
+traintweets.tsv:472078544252985344	-0.95	Required_event Part_ordered_segments Text
+traintweets.tsv:472360495597748224	-2.64	Dressing Statement Differentiation Being_named Labeling Referring_by_name Simple_naming Fields
+traintweets.tsv:472433124547129345	-3.16	Cause_impact Cause_motion Impact Self_motion Personal_relationship
+traintweets.tsv:475475327372644353	-1.98	Sleep Age People
+traintweets.tsv:475348583458557952	-1.3	Emotion_active Religious_belief
+traintweets.tsv:475177634460995585	-3.1	Simple_name Reporting Statement
+traintweets.tsv:472134900037201920	-1.88	Food Personal_relationship Social_event_collective Food
+traintweets.tsv:472562048019476480	-2.57	Guest_and_host
+traintweets.tsv:472181903291068416	-2.78	Expectation Omen Predicting Accuracy Correctness
+traintweets.tsv:472249336265732096	-2.22	Observable_body_parts Prevarication Arriving People
+traintweets.tsv:473235631989358592	-1.88	Importance
+traintweets.tsv:474564603742289920	-0.75	Aggregate Type Education_teaching
+traintweets.tsv:473205006272069633	-1.5	Aggregate Type Law Evidence Reasoning
+traintweets.tsv:472552901806551040	-2.17	Desirability Expertise Social_interaction_evaluation Usefulness Coincidence Luck Sounds
+traintweets.tsv:472314432081903616	1.1	Taking_time Being_awake Perception_active Seeking Temporal_collocation Time_vector Feeling Perception_active Perception_experience
+traintweets.tsv:472278353710292993	-1.25	Commerce_buy Relative_time Time_vector Speak_on_topic Communication Statement Text_creation Desirability
+traintweets.tsv:475267437076570115	0	Degree Fairness_evaluation People
+traintweets.tsv:472082322125516800	-2.15	Locale Being_located Change_posture Posture People_by_vocation Calendric_unit Locale_by_use Natural_features
+traintweets.tsv:472368075585884160	-3.36	People Have_as_requirement Needing Required_event Judgment_communication
+traintweets.tsv:472867920507600896	-2.33	Ranked_expectation Perception_experience Cause_change_of_position_on_a_scale Cause_motion Manipulation
+traintweets.tsv:465227487065407488	-1.47	Relational_political_locales Competition Contingency
+traintweets.tsv:474711740165283840	-3.27	Categorization Regard
+traintweets.tsv:472293961831546880	1.93	Political_locales
+traintweets.tsv:475725076848181248	-1.92	People Dressing Certainty Trust Mental_property Kinship
+traintweets.tsv:472472133776715776	-2.58	Being_named Labeling Referring_by_name Simple_naming Measure_duration
+traintweets.tsv:473229521127497732	1.96	Simple_name
+traintweets.tsv:475785629616586752	-1.5	Communicate_categorization Topic
+traintweets.tsv:473528256633659392	-2.05	Evidence Telling Dressing
+traintweets.tsv:472787571274047489	-2.75	Emotion_directed Weapon Cause_to_make_noise Make_noise Sound_movement
+traintweets.tsv:472120583048527873	-1.59	Ranked_expectation Part_inner_outer People
+traintweets.tsv:473409437705596928	-2.22	Questioning Cause_impact Cause_motion Impact Self_motion
+traintweets.tsv:472169795383988224	-2.44	Accuracy Reading People Similarity Cotheme Self_motion Being_employed
+traintweets.tsv:472183027917787136	-2.07	Religious_belief
+traintweets.tsv:474312181627228160	-0.98	Representing
+traintweets.tsv:474488234383540224	-1.8	Cause_change
+traintweets.tsv:472214508086513664	-3.51	Catastrophe Coming_to_believe Perception_active Evidence
+traintweets.tsv:474711082649804800	-1.86	Political_locales First_rank Leadership Arrest
+traintweets.tsv:472166987117105152	-2.26	Point_of_dispute Change_of_leadership
+traintweets.tsv:472172022077095936	-1.76	Reading Part_ordered_segments Text
+traintweets.tsv:474660777413312512	-0.56	Cause_change Roadways Change_direction Gesture
+traintweets.tsv:475389493617623040	-3.02	Sounds Weather
+traintweets.tsv:474895507710423040	-3.61	Calendric_unit Measure_duration Working_on
+traintweets.tsv:472410793901031424	-2.22	People Kinship People_by_age Participation
+traintweets.tsv:472272654834339840	2.35	Position_on_a_scale Wealthiness Degree Existence Locale
+traintweets.tsv:472136857460178944	-1.8	Dressing Age Communication_manner Buildings Building Manufacturing
+traintweets.tsv:474629362336415745	1.54	Clothing
+traintweets.tsv:472817265852043264	-2.08	Calendric_unit Measure_duration Timespan
+traintweets.tsv:472236074971176960	-1.5	Temporal_collocation Cause_change Undergo_change Attempt_suasion Adorning Filling
+traintweets.tsv:472197680228470784	-2.5	Being_in_effect Medical_conditions
+traintweets.tsv:472128814118490112	1.54	Receiving Usefulness Attending Success_or_failure Calendric_unit Measure_duration Timespan Locale_by_use
+traintweets.tsv:472763177760206849	3.41	Communication Statement Text_creation Communication Statement Text_creation Chatting Statement Talking_into
+traintweets.tsv:475770445904760833	-2.12	Relational_quantity Cause_harm Cause_impact Experience_bodily_harm
+traintweets.tsv:472325117125885952	-3.02	Event_instance Location_in_time Timespan Participation
+traintweets.tsv:472437963075649537	-3.02	Performing_arts Clothing_parts Fastener Coming_to_believe
+traintweets.tsv:472445670326951936	-1.54	Perception_experience Vehicle Self_motion
+traintweets.tsv:472080582856699904	-1.76	Locale_by_use
+traintweets.tsv:472777869564059648	-1.59	People Examination Operational_testing Trying_out Evidence Telling Color People
+traintweets.tsv:472317652187090944	-2.95	
+traintweets.tsv:475994366780006400	-1.61	Perception_experience
+traintweets.tsv:475384991191670784	-1.81	Halt Precipitation
+traintweets.tsv:472229820508934145	-2.07	Biological_urge Rite
+traintweets.tsv:472047356381503488	1.74	Experiencer_focus
+traintweets.tsv:473918136710746112	-2.96	Perception_active Scrutiny Seeking Being_named Labeling Referring_by_name Simple_naming
+traintweets.tsv:474524076435050496	1.74	Substance Businesses Kinship People_by_vocation Substance Businesses Kinship Personal_relationship Law
+traintweets.tsv:472375030429401091	2.99	Calendric_unit Measure_duration Communication Statement Text_creation Communication Statement Text_creation People_by_vocation Perception_active Scrutiny Seeking
+traintweets.tsv:459885127959838720	-2.35	Calendric_unit Required_event Being_awake Motion_directional Calendric_unit Calendric_unit Measure_duration
+traintweets.tsv:472074952007757824	-2.74	Desirability Expertise Social_interaction_evaluation Usefulness Familiarity Being_located Posture
+traintweets.tsv:475135710425788416	0.92	Ranked_expectation Cause_emotion Hear Perception_experience
+traintweets.tsv:472796107979096064	-1.5	Experiencer_focus Dressing Event_instance Location_in_time Timespan Awareness Grasp Needing Animals Animals Needing Food
+traintweets.tsv:474846433699696641	-3.1	Ranked_expectation Experiencer_obj Importance Probability People_by_age Weather Fields Being_in_effect Causation Objective_influence Relational_quantity
+traintweets.tsv:472733606587027456	-2.51	Leadership Amounting_to Medical_conditions
+traintweets.tsv:474575467782365186	1.54	Kinship People_by_age Being_strong Exertive_force
+traintweets.tsv:472329286880227328	3.39	Questioning Cause_harm Cutting
+traintweets.tsv:475277989152690176	-2.72	Experiencer_focus
+traintweets.tsv:472362558448746496	-2.63	Calendric_unit Measure_duration Timespan Likelihood Self_motion Traversing Location_in_time Timespan Emotions_of_mental_activity Experiencer_focus Calendric_unit Measure_duration
+traintweets.tsv:474802616393011201	-0.99	Part_inner_outer Cause_change Cause_to_move_in_place Change_direction Moving_in_place Undergo_change
+traintweets.tsv:472065463459934208	4.07	Perception_active Scrutiny Seeking Dressing
+traintweets.tsv:472060277752877056	-0.28	Political_locales
+traintweets.tsv:472051017585291265	-2.81	Correctness Part_orientational Awareness Categorization Opinion Regard People_by_age Personal_relationship Color Color
+traintweets.tsv:475415719710961664	-2.96	Residence Ranked_expectation Experience_bodily_harm Being_located Change_posture Posture Relational_natural_features
+traintweets.tsv:472117194613354496	-1.5	Sufficiency Part_orientational People Part_orientational Coming_to_be Complaining Text Statement
+traintweets.tsv:472201138243395586	-3.47	Origin Political_locales
+traintweets.tsv:472029435655630848	-0.98	People_by_vocation
+traintweets.tsv:474379610004938752	-1.61	Make_noise Have_as_requirement Needing Required_event
+traintweets.tsv:472255824019353601	-0.56	Ingredients Substance
+traintweets.tsv:474564737750290433	-3.09	Cotheme Self_motion Measure_mass Animals Event
+traintweets.tsv:472064654617751552	-1.91	Feeling Perception_active Perception_experience Being_strong Exertive_force Reshaping Ranked_expectation
+traintweets.tsv:472224167014965248	0.56	Experiencer_focus People Judgment_direct_address Ranked_expectation Aesthetics
+traintweets.tsv:473130757683417088	-2.81	Death Rotting Hair_configuration Observable_body_parts Location_of_light Color Becoming Expressing_publicly Facial_expression
+traintweets.tsv:473587051129225216	-2.44	Relational_quantity Breathing Observable_body_parts Facial_expression Observable_body_parts Make_noise Mental_property
+traintweets.tsv:472096897176731648	-2.86	People Text Statement Text_creation People Animals
+traintweets.tsv:475078044638408705	-2.53	Organization Discussion Be_in_agreement_on_assessment Make_agreement_on_action Natural_features
+traintweets.tsv:472140299062743040	-2.37	Being_employed Observable_body_parts Cause_motion Manipulation Attack Weapon
+traintweets.tsv:472052164198936576	2.67	People
+traintweets.tsv:474757710739562496	-3.39	Judgment Judgment_communication
+traintweets.tsv:474205611635507200	-1.99	Calendric_unit Measure_duration Timespan Building_subparts
+traintweets.tsv:474001074202767361	-1.14	Legality Thriving Economy
+traintweets.tsv:473988944510464000	-2.75	
+traintweets.tsv:475239376344342528	-1.81	Openness Connecting_architecture Buildings Judgment_communication
+traintweets.tsv:472945411724828673	-2.58	Likelihood Ranked_expectation Cogitation Difficulty
+traintweets.tsv:472134412440571904	-2.97	Dressing
+traintweets.tsv:475657329128779776	-0.46	Renting_out Ranked_expectation Being_named Labeling Referring_by_name Simple_naming Buildings Expected_location_of_person
+traintweets.tsv:472335975063244800	3.15	Existence
+traintweets.tsv:473953030937640962	-1.78	Reason
+traintweets.tsv:475517806046236672	-3.27	Kinship Being_named Labeling Referring_by_name Simple_naming Trendiness Age Animals Locale
+traintweets.tsv:472093508124172288	0.62	Representing Sign
+traintweets.tsv:472301179884408832	-2.51	Religious_belief Participation Buildings Locale_by_use
+traintweets.tsv:472119298219986944	-2.88	Quantity Rank Dressing Desiring Dressing Desiring
+traintweets.tsv:472037272515145728	1.38	Activity_start Process_end Activity_start Familiarity
+traintweets.tsv:472297297653800960	2.3	Being_employed Calendric_unit
+traintweets.tsv:473631209504133120	-0.77	Color
+traintweets.tsv:473512430782267393	-3.51	Residence Capability Becoming_aware Locating Calendric_unit Death Rotting People Desiring
+traintweets.tsv:472134868181086208	0.28	Being_employed Employing Locale People_by_origin Buildings Expected_location_of_person
+traintweets.tsv:472076962425364480	0.32	Communication Statement Text_creation Dressing Sex Aggregate Quantity Sex Emotion_heat
+traintweets.tsv:474911532888117249	-2.06	Remembering_experience Remembering_information Remembering_to_do Cause_change
+traintweets.tsv:472102223867293696	-3.32	Natural_features Communication Statement Text_creation
+traintweets.tsv:474020302507094016	-1.14	Clothing Capacity Suitability Cause_emotion Arson Locale_by_use Point_of_dispute
+traintweets.tsv:472148700811497472	-2.87	Desiring Vehicle People_by_origin Locale
+trialtweets.tsv:459733279667924993	-2	Choosing Leadership
+trialtweets.tsv:460713964825874432	0.8	Ranked_expectation Desiring
+trialtweets.tsv:459797226559397888	-0.8	Personal_relationship Ranked_expectation Spelling_and_pronouncing
+trialtweets.tsv:460100524465868801	-1.6	Examination Operational_testing Trying_out Differentiation
+trialtweets.tsv:460848105861443584	-2.2	Communication Statement Text_creation Duration_attribute Dimension Duration_attribute
+trialtweets.tsv:460891052895793154	-2.8	Ranked_expectation Locale_by_use Vehicle Location_of_light Light_movement Location_of_light Sign Cause_expansion Communication Statement Text_creation People
+trialtweets.tsv:460232750810013696	-1.6	People Calendric_unit
+trialtweets.tsv:459728991989923840	-2.4	Quantity Rank People Observable_body_parts Temporal_collocation Being_employed
+trialtweets.tsv:460325374845399040	-2	Medical_conditions Halt Activity_finish Dimension Duration_attribute Medical_conditions
+trialtweets.tsv:464547111917604866	-1.8	Calendric_unit Examination Awareness Categorization Opinion Regard Calendric_unit Measure_duration Timespan Dressing
+trialtweets.tsv:463833782064136192	-2.2	Becoming_aware Locating Correctness Assistance Communication
+trialtweets.tsv:460462339519938560	-1.6	Completeness Calendric_unit Calendric_unit Medical_conditions
+trialtweets.tsv:459743984836153344	-2.2	Roadways Locale Death Rotting Building_subparts
+trialtweets.tsv:459791624445251584	-1.6	Questioning Perception_active Building_subparts Intoxicants Intoxicants
+trialtweets.tsv:460226655232200704	-2.2	Type Accuracy Questioning Color People
+trialtweets.tsv:460873963733016576	0.4	Body_movement Cause_motion Food Activity_start Process_start Setting_out
+trialtweets.tsv:460174044575186946	-3.2	Accuracy Desirability Desirability Judgment
+trialtweets.tsv:464120096445575168	-1.6	Experiencer_focus Communication Statement Text_creation Desiring Performers People_by_vocation Performers
+trialtweets.tsv:459885127959838720	-1.4	Calendric_unit Required_event Being_awake Motion_directional Calendric_unit Calendric_unit Measure_duration
+trialtweets.tsv:460426474588082177	-3.2	Questioning
+trialtweets.tsv:460425608934457344	-1.6	Morality_evaluation Taking_time Calendric_unit Measure_duration
+trialtweets.tsv:460813539071238144	-1.8	Color Giving Passing Containers Roadways
+trialtweets.tsv:460094596333445120	-1	Education_teaching Obviousness Communication Statement Text_creation Statement Statement Text_creation Communication Statement Text_creation
+trialtweets.tsv:460217263476330496	-2.8	Receiving
+trialtweets.tsv:465540648121434113	-2.4	Experiencer_focus
+trialtweets.tsv:465221923199549440	-2.4	Experiencer_focus Bringing Operate_vehicle
+trialtweets.tsv:465117661094215680	-2.6	Experiencer_focus Import_export Importing
+trialtweets.tsv:465094665575092224	-2.4	Experiencer_focus Speak_on_topic Statement Desirability
+trialtweets.tsv:465342815346495488	-3.2	Commerce_pay Money
+trialtweets.tsv:465227487065407488	-2.4	Relational_political_locales Competition Contingency
+trialtweets.tsv:464886802122543104	-2.2	Experiencer_focus People Being_named Labeling Referring_by_name Simple_naming
+trialtweets.tsv:465441973655310336	1.4	Desiring Leadership Kinship People_by_age Education_teaching Emotion_directed
+trialtweets.tsv:465561545720995841	-2.8	
