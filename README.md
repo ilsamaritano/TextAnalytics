@@ -1,5 +1,4 @@
-# Text Analytics - SemEval 2015 Figurative Language
-Project for the Text Analytics exam (A.Y. 2023/2024, University of Pisa - instructor: Laura Pollacci). The repository contains the full workflow for SemEval-2015 Task 11 on figurative language, with preprocessing, two classification tasks, and a short explainability study, all implemented in Python notebooks.
+The repository contains the full workflow for SemEval-2015 Task 11 on figurative language, with preprocessing, two classification tasks, and a short explainability study, all implemented in Python notebooks.
 
 ## Repository Contents
 - `Group2_Preprocess.ipynb`: data understanding and preprocessing; builds features (frames, word frequencies, SenticNet, WordNet synonyms, vectorizers) and prepares splits for downstream tasks.
@@ -31,4 +30,4 @@ Project for the Text Analytics exam (A.Y. 2023/2024, University of Pisa - instru
 
 ## Notes
 - The preprocessed datasets in `dataset_first_task/` and `dataset_second_task/` are the outputs of `Group2_Preprocess.ipynb`; you can start from them to skip feature-building time.
-- No packaged CLI is provided; the workflow is notebook-driven to keep the analysis transparent for the exam setting.
+- No packaged CLI is provided; the workflow is notebook-driven to keep the analysis transparent for the setting.
